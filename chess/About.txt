@@ -10,4 +10,4 @@ May 2006</p>
 
 <p>This was my first major project using a multithreaded approach, and was also the first project of mine that incorporated my own on the fly debugging. Using a command window that I wrote I can change almost any variable or even execute custom scripts specific for this program. Also included with the console window I wrote, there is also a complete informational window that I created to show all variable values, complete array contents, or even just regular processing data. A small demonstration of the open ended possibilities with the interface a designed is available by running any of the demos in the Demos menu.</P>
 
-<p>Any questions comments or concerns can be sent to Dougie@FreshProgramming.com</p>
+<p>You can access chess console by prssing CTRL+ALT+SHIFT+~. You can access the chess info window by pressing CTRL+ALT+SHIFT+I to access the info window which has more help and some console documentation.</p>
