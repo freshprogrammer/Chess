@@ -1,0 +1,24 @@
+System.forcePaint
+system.wait.500
+System.forcePaint
+system.wait.100
+System.forcePaint
+system.wait.100
+System.forcePaint
+system.wait.100
+System.forcePaint
+system.wait.100
+System.forcePaint
+system.wait.500
+
+Script.load.Graphic Capabilities
+system.wait.1500
+System.forcePaint
+system.wait.500
+Script.load.Graphic Capabilities
+system.wait.1500
+System.newGame
+System.forcePaint
+system.wait.500
+Script.load.EndlessLoops
+END

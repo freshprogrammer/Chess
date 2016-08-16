@@ -1,0 +1,212 @@
+<Center><font size=5><b>Chess Rules</b></font></center>
+<br>
+
+<P>Chess is a game, played by two players. One player plays with the white
+pieces, and the other player plays with the black pieces. Each player has
+sixteen pieces in the beginning of the game: one king, one queen, two rooks,
+two bishops, two knights, and eight pawns. </P>
+
+<P>The game is played on a chessboard, consisting of 64 squares: eight
+rows and eight columns. The squares are alternately light (white) and dark
+colored. The board must be laid down such that there is a black square
+in the lower-left corner. To facilitate notation of moves, all squares
+are given a name. From the view of the white player, the rows are numbered
+1, 2, 3, 4, 5, 6, 7, 8; the lowest row has number 1, and the upper row
+has number 8. The columns are named, from left to right, a, b, c, d, e,
+f, g, h. A square gets a name, consisting of the combination of its column-letter
+and row-number, e.g., the square in the lower left corner (for white) is
+a1. </P>
+
+<P>Alternately, the players make a move, starting with the white player
+(the player that plays with the white pieces.) A move consists of moving
+one of the pieces of the player to a different square, following the rules
+of movement for that piece - there is one special exception, named <B>castling</B>,
+where players move two pieces simultaneously. </P>
+
+<P>A player can <B>take</B> a piece of the opponent by moving one of his
+own pieces to the square that contains a piece of the opponent. The opponents
+piece then is removed from the board, and out of play for the rest of the
+game. (Taking is not compulsory.) </P>
+
+<P>At the start of the game, the position of the pieces is as follows.
+
+</P>
+
+<P>Thus, at the second row, there are eight white pawns, at the seventh
+row, there are eight black pawns. At the first row, from left to right,
+we have a: rook, knight, bishop, queen, king, bishop, knight, and rook.
+Note that the queens start of squares of their own color, with a dark square
+in each players left hand corner.
+</P>
+
+<H2>Movement of the pieces</H2>
+
+<a name="rook"> </a>
+
+<H3>Rook</H3>
+
+<P>The rook moves in a straight line, horizontally or vertically. The rook
+may not jump over other pieces, that is: all squares between the square
+where the rook starts its move and where the rook ends its move must be
+empty. (As for all pieces, when the square where the rook ends his move
+contains a piece of the opponent, then this piece is taken. The square
+where the rook ends his move may not contain a piece of the player owning
+this rook.) </P>
+
+<a name="bishop"> </a>
+
+<H3>Bishop</H3>
+
+<P>The bishop moves in a straight diagonal line. The bishop may also not
+jump over other pieces. </P>
+
+<a name="queen"> </a>
+
+<H3>Queen</H3>
+
+<P>The queen has the <I>combined</I> moves of the rook and the bishop,
+i.e., the queen may move in any straight line, horizontal, vertical, or
+diagonal. </P>
+
+<a name="knight"> </a>
+
+<H3>Knight</H3>
+
+<P>The knight makes a move that consists of first one step in a horizontal
+or vertical direction, and then one step diagonally in an outward direction. The knight <I>jumps</I>:
+it is allowed that the first square that the knight passes over is occupied
+by an arbitrary piece. For instance, white can start the game by moving
+his knight from b1 to c3. The piece that is jumped over is further not
+affected by the knight: as usual, a knight takes a piece of the opponent
+by moving to the square that contains that piece. </P>
+
+<a name="pawn"> </a>
+
+<H3>Pawn</H3>
+
+<P>The pawn moves differently regarding whether it moves to an empty square
+or whether it takes a piece of the opponent. When a pawn does not take,
+it moves one square straight forward. When this pawn has not moved at all,
+i.e., the pawn is still at the second row (from the owning players view),
+the pawn may make a double step straight forward. For instance, a white
+pawn on d2 can be moved to d4. </P>
+
+<P>When taking, the pawn goes one square diagonally forward. </P>
+
+<P>There is one special rule, called <I>taking en-passant</I>. 
+When a pawn makes a double step from the second row to the fourth row, and there is an enemy pawn on an 
+adjacent square on the fourth row, then this enemy pawn inthe next move may move diagonally to the square 
+that was passed over by the double-stepping pawn, which is on the third row. In this same move, the 
+double-stepping pawn is taken. 
+
+<!-- 
+When a pawn
+makes a double step from the second row to the fourth row, and there is
+an enemy pawn on an adjacent square on the fourth row, then this enemy
+pawn may move to the square on the third row that was passed over, and
+taking the other pawn. 
+ -->
+
+This taking en-passant must be done directly: if
+the player who could take en-passant does not do this in the first move
+after the double step, this pawn cannot be taken anymore by an en-passant
+move. </P>
+
+<P>Pawns that reach the last row of the board <I>promote.</I> When a player
+moves a pawn to the last row of the board, he replaces the pawn by a queen,
+rook, knight, or bishop (of the same color). Usually, players will promote
+the pawn to a queen, but the other types of pieces are also allowed. (It
+is not required that the pawn is promoted to a piece taken. Thus, it is
+for instance possible that a player has at a certain moment two queens.)</P>
+
+<<a name="king"> </a>
+
+<H3>King</H3>
+
+<P>The king moves one square in any direction, horizontally, vertically,
+or diagonally. There is one special type of move, made by a king and rook
+simultaneously, called <I>castling</I>: see below. </P>
+
+<P>The king is the most important piece of the game, and moves must be
+made in such a way that the king is never in check: see below.
+</P>
+
+<H3>Castling</H3>
+
+<P>Under certain, special rules, a king and rook can move simultaneously
+in a <I>castling</I> move. </P>
+
+<P>The following conditions must be met: </P>
+
+<UL>
+<LI>The king that makes the castling move has not yet moved in the game.
+
+</LI>
+
+<LI>The rook that makes the castling move has not yet moved in the game.
+</LI>
+
+<LI>The king is not in check. </LI>
+
+<LI>The king does not move over a square that is attacked by an enemy piece
+during the castling move, i.e., when castling, there may not be an enemy piece
+that can move (in case of pawns: by diagonal movement) to a square that is
+moved over by the king. </LI>
+
+<LI>The king does not move to a square that is attacked by an enemy piece
+during the castling move, i.e., you may not castle and end the move with the
+king in check. </LI>
+
+<LI>All squares between the rook and king before the castling move are
+empty. </LI>
+
+<LI>The King and rook must occupy the same rank (or row).</LI>
+
+</UL>
+
+<P>When castling, the king moves two squares towards the rook, and the
+rook moves over the king to the next square, i.e., black's king on e8 and
+rook on a8 move to: king c8, rook d8 (<I>long castling</I>), white's king
+on e1 and rook on h1 move to: king g1, rook f1 (<I>short castling</I>).
+</P>
+
+<H2>Check, mate, and stalemate</H2>
+
+<H3>Check</H3>
+
+<P>When the king of a player can be taken by a piece of the opponent, one
+says that the king is <I>in check</I>. For instance, the white player moves
+his rook to a position such that it attacks the black king, i.e., if black
+doesn't do anything about it, the rook could take the black king in the
+next move: we say that the white rook <I>gives check.</I> It is considered
+good manners to say <I>check</I> when one checks ones opponent. </P>
+
+<P>It is not allowed to make a move, such that ones king is in check after
+the move. If a player accidently tries to make such a move, he must take the
+move back and make another move (following the rules that one must move with
+the piece one has touched.)</P>
+
+<H3>Mate</H3>
+
+<P>When a player is in check, and he cannot make a move such that after
+the move, the king is not in check, then he is <I>mated</I>. The player
+that is mated lost the game, and the player that mated him won the game.
+</P>
+
+<P>Note that there are three different possible ways to remove a check:
+</P>
+
+<OL>
+<LI>Move the king away to a square where he is not in check. </LI>
+
+<LI>Take the piece that gives the check. </LI>
+
+<LI>(In case of a check, given by a rook, bishop or queen: ) move a piece
+between the checking piece and the king. </LI>
+</OL>
+
+<H3>Stalemate</H3>
+
+<P>When a player cannot make any legal move, but he is not in check, then
+the player is said to be <I>stalemated</I>. In a case of a stalemate, the
+game is a draw. </P>

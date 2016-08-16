@@ -1,0 +1,1268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<editmodel:ClassDiagramEditModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:editmodel="editmodel.xmi" xmlns:options="options.xmi" size="3006,6640" id="chess" metadata="uml2-1.0" initialized="true" scrolledX="1041" scrolledY="741" tag="1000" key="323030363033323020426F6172642047616D65732F446F75676C617320437261667473">
+  <children xsi:type="editmodel:ClassEditModel" targetConnections="//@children.12/@sourceConnections.0 //@children.18/@sourceConnections.0 //@children.16/@sourceConnections.2 //@children.14/@sourceConnections.2 //@children.19/@sourceConnections.2 //@children.20/@sourceConnections.2 //@children.15/@sourceConnections.2 //@children.17/@sourceConnections.3 //@children.3/@sourceConnections.3 //@children.4/@sourceConnections.7 //@children.7/@sourceConnections.5 //@children.6/@sourceConnections.0 //@children.5/@sourceConnections.3 //@children.10/@sourceConnections.2" name="MyMethods" location="352,650" size="173,787" id="fresh/MyMethods" runTimeClassModel="convertToArrayList([D),CreateRandomSequence(II),DividingLine(),convertToIntArray([D),getLastChar(Ljava.lang.String;),println(Ljava.lang.String;),CreateCompleteFile(Ljava.lang.String;Ljava.lang.String;[Ljava.lang.String;),Time(),InsertionSort([D),TrimTo(Ljava.util.ArrayList;I),convertToDoubleArray(Ljava.util.ArrayList;),BubbleSort([D),InsertionSort(Ljava.util.ArrayList;),BubbleSort(Ljava.util.ArrayList;),convertToArrayList([I),RandomGrayColor(),ShowSaveWindow(Ljava.awt.Component;),randomInt(DD),TimeMil(),RandomColor(),TimeStamp(),ReverseList(Ljava.util.ArrayList;),CreateCompleteFile(Ljava.lang.String;Ljava.lang.String;Ljava.util.ArrayList;),randomDouble(DD),convertToDoubleArray([I),SLASH(),ShowOpenWindow(Ljava.awt.Component;),run(),Date(),pause(I),InsertionSort([I),convertToColor(Ljava.lang.String;),BubbleSort([I),CopyFile(Ljava.io.File;Ljava.io.File;),CreateRandomList(III),SelectionSort(Ljava.util.ArrayList;),SelectionSort([I),SelectionSort([D),println(Ljava.util.ArrayList;),Convert([Ljava.lang.Object;),convertToIntArray(Ljava.util.ArrayList;)">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="150,738">
+      <children xsi:type="editmodel:MethodEditModel" name="BubbleSort" id="fresh/MyMethods#BubbleSort([D)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="BubbleSort" id="fresh/MyMethods#BubbleSort(Ljava.util.ArrayList;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="BubbleSort" id="fresh/MyMethods#BubbleSort([I)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="Convert" id="fresh/MyMethods#Convert([Ljava.lang.Object;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="CopyFile" id="fresh/MyMethods#CopyFile(Ljava.io.File;Ljava.io.File;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="CreateCompleteFile" id="fresh/MyMethods#CreateCompleteFile(Ljava.lang.String;Ljava.lang.String;Ljava.util.ArrayList;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="CreateCompleteFile" id="fresh/MyMethods#CreateCompleteFile(Ljava.lang.String;Ljava.lang.String;[Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="CreateRandomList" id="fresh/MyMethods#CreateRandomList(III)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="CreateRandomSequence" id="fresh/MyMethods#CreateRandomSequence(II)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="Date" id="fresh/MyMethods#Date()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="DividingLine" id="fresh/MyMethods#DividingLine()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="InsertionSort" id="fresh/MyMethods#InsertionSort([D)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="InsertionSort" id="fresh/MyMethods#InsertionSort([I)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="InsertionSort" id="fresh/MyMethods#InsertionSort(Ljava.util.ArrayList;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="RandomColor" id="fresh/MyMethods#RandomColor()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="RandomGrayColor" id="fresh/MyMethods#RandomGrayColor()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="ReverseList" id="fresh/MyMethods#ReverseList(Ljava.util.ArrayList;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="SLASH" id="fresh/MyMethods#SLASH()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="SelectionSort" id="fresh/MyMethods#SelectionSort([D)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="SelectionSort" id="fresh/MyMethods#SelectionSort([I)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="SelectionSort" id="fresh/MyMethods#SelectionSort(Ljava.util.ArrayList;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="ShowOpenWindow" id="fresh/MyMethods#ShowOpenWindow(Ljava.awt.Component;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="ShowSaveWindow" id="fresh/MyMethods#ShowSaveWindow(Ljava.awt.Component;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="Time" id="fresh/MyMethods#Time()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="TimeMil" id="fresh/MyMethods#TimeMil()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="TimeStamp" id="fresh/MyMethods#TimeStamp()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="TrimTo" id="fresh/MyMethods#TrimTo(Ljava.util.ArrayList;I)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="convertToArrayList" id="fresh/MyMethods#convertToArrayList([D)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="convertToArrayList" id="fresh/MyMethods#convertToArrayList([I)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="convertToColor" id="fresh/MyMethods#convertToColor(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="convertToDoubleArray" id="fresh/MyMethods#convertToDoubleArray(Ljava.util.ArrayList;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="convertToDoubleArray" id="fresh/MyMethods#convertToDoubleArray([I)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="convertToIntArray" id="fresh/MyMethods#convertToIntArray([D)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="convertToIntArray" id="fresh/MyMethods#convertToIntArray(Ljava.util.ArrayList;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getLastChar" id="fresh/MyMethods#getLastChar(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="pause" id="fresh/MyMethods#pause(I)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="println" id="fresh/MyMethods#println(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="println" id="fresh/MyMethods#println(Ljava.util.ArrayList;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="randomDouble" id="fresh/MyMethods#randomDouble(DD)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="randomInt" id="fresh/MyMethods#randomInt(DD)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="run" id="fresh/MyMethods#run()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" targetConnections="//@children.12/@sourceConnections.2 //@children.18/@sourceConnections.10 //@children.18/@sourceConnections.11 //@children.16/@sourceConnections.1 //@children.14/@sourceConnections.4 //@children.19/@sourceConnections.1 //@children.20/@sourceConnections.1 //@children.15/@sourceConnections.1 //@children.17/@sourceConnections.4 //@children.3/@sourceConnections.2 //@children.4/@sourceConnections.6 //@children.7/@sourceConnections.4 //@children.8/@sourceConnections.1 //@children.2/@sourceConnections.1 //@children.5/@sourceConnections.2 //@children.10/@sourceConnections.1 //@children.7/@sourceConnections.15" name="PieceManager" location="2419,1236" size="224,1021" id="chess/PieceManager" runTimeClassModel="dragged(Ljava.awt.event.MouseEvent;),tempKill(Lchess.Piece;),getSelectedPiece(),NewGame(),addDead(Lchess.Piece;),CalcPossibleMovesFor(Z),pressed(Ljava.awt.event.MouseEvent;),PieceManager(Lchess.Chess;),getDeadPieceAt(Ljava.awt.Point;),getClickedPiece(),refreshReference(Lchess.Piece;),isGameOverFor(ZLjava.util.ArrayList;),released(Ljava.awt.event.MouseEvent;),kill(Lchess.Piece;),getPieceAt(II),add(Lchess.Piece;Lchess.PieceManager;),BoardSave(),SwitchWhiteMove(),getDeadPieceAt(II),RemoveOutOfBoundsSquares(Ljava.util.ArrayList;),getKing(Z),Promote(Lchess.Piece;Lchess.Piece;),add(Ljava.lang.Object;),isGameOverFor(Z),getPieceAt(Ljava.awt.Point;),getAllDeadPieces(),RemoveInvalidMoves(Ljava.util.ArrayList;),CalcCheckedAreaFor(Z),setSelectedPiece(Lchess.Piece;),RefreshAllPiecesMoves(),isWhiteInCheck(),isGameOver(),getAllPieces(),setCheck(ZZ),RefreshChecks(Z),getPossibleMovesFor(Z),get(I),getPiecesAt(II),reAdd(Lchess.Piece;),isThisInCheck(Z),add(Lchess.Piece;),RefreshAllChecks(),counter,getCheckedAreaFor(Z),isBlackInCheck(),contains(Ljava.util.ArrayList;Ljava.awt.Point;),RefreshAllPiecesChecks(),RefreshAllPiecesMovesAndChecks(),ClearPieces(),tempRevive(),clicked(Ljava.awt.event.MouseEvent;),isWhiteMove(),RemoveOcupiedSquares(Ljava.util.ArrayList;Z),reEncartnate(Lchess.Piece;)">
+    <children xsi:type="editmodel:CompartmentEditModel" size="73,18">
+      <children xsi:type="editmodel:AttributeEditModel" name="counter" id="chess/PieceManager#counter"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="201,954">
+      <children xsi:type="editmodel:MethodEditModel" name="BoardSave" id="chess/PieceManager#BoardSave()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="CalcCheckedAreaFor" id="chess/PieceManager#CalcCheckedAreaFor(Z)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="CalcPossibleMovesFor" id="chess/PieceManager#CalcPossibleMovesFor(Z)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="ClearPieces" id="chess/PieceManager#ClearPieces()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="NewGame" id="chess/PieceManager#NewGame()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="PieceManager" id="chess/PieceManager#PieceManager(Lchess.Chess;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="Promote" id="chess/PieceManager#Promote(Lchess.Piece;Lchess.Piece;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="RefreshAllChecks" id="chess/PieceManager#RefreshAllChecks()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="RefreshAllPiecesChecks" id="chess/PieceManager#RefreshAllPiecesChecks()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="RefreshAllPiecesMoves" id="chess/PieceManager#RefreshAllPiecesMoves()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="RefreshAllPiecesMovesAndChecks" id="chess/PieceManager#RefreshAllPiecesMovesAndChecks()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="RefreshChecks" id="chess/PieceManager#RefreshChecks(Z)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="RemoveInvalidMoves" id="chess/PieceManager#RemoveInvalidMoves(Ljava.util.ArrayList;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="RemoveOcupiedSquares" id="chess/PieceManager#RemoveOcupiedSquares(Ljava.util.ArrayList;Z)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="RemoveOutOfBoundsSquares" id="chess/PieceManager#RemoveOutOfBoundsSquares(Ljava.util.ArrayList;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="SwitchWhiteMove" id="chess/PieceManager#SwitchWhiteMove()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="add" id="chess/PieceManager#add(Lchess.Piece;Lchess.PieceManager;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="add" id="chess/PieceManager#add(Lchess.Piece;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="add" id="chess/PieceManager#add(Ljava.lang.Object;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="addDead" id="chess/PieceManager#addDead(Lchess.Piece;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="clicked" id="chess/PieceManager#clicked(Ljava.awt.event.MouseEvent;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="contains" id="chess/PieceManager#contains(Ljava.util.ArrayList;Ljava.awt.Point;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="dragged" id="chess/PieceManager#dragged(Ljava.awt.event.MouseEvent;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="get" id="chess/PieceManager#get(I)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getAllDeadPieces" id="chess/PieceManager#getAllDeadPieces()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getAllPieces" id="chess/PieceManager#getAllPieces()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getCheckedAreaFor" id="chess/PieceManager#getCheckedAreaFor(Z)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getClickedPiece" id="chess/PieceManager#getClickedPiece()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getDeadPieceAt" id="chess/PieceManager#getDeadPieceAt(II)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getDeadPieceAt" id="chess/PieceManager#getDeadPieceAt(Ljava.awt.Point;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getKing" id="chess/PieceManager#getKing(Z)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getPieceAt" id="chess/PieceManager#getPieceAt(Ljava.awt.Point;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getPieceAt" id="chess/PieceManager#getPieceAt(II)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getPiecesAt" id="chess/PieceManager#getPiecesAt(II)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getPossibleMovesFor" id="chess/PieceManager#getPossibleMovesFor(Z)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getSelectedPiece" id="chess/PieceManager#getSelectedPiece()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="isBlackInCheck" id="chess/PieceManager#isBlackInCheck()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="isGameOver" id="chess/PieceManager#isGameOver()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="isGameOverFor" id="chess/PieceManager#isGameOverFor(Z)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="isGameOverFor" id="chess/PieceManager#isGameOverFor(ZLjava.util.ArrayList;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="isThisInCheck" id="chess/PieceManager#isThisInCheck(Z)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="isWhiteInCheck" id="chess/PieceManager#isWhiteInCheck()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="isWhiteMove" id="chess/PieceManager#isWhiteMove()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="kill" id="chess/PieceManager#kill(Lchess.Piece;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="pressed" id="chess/PieceManager#pressed(Ljava.awt.event.MouseEvent;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="reAdd" id="chess/PieceManager#reAdd(Lchess.Piece;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="reEncartnate" id="chess/PieceManager#reEncartnate(Lchess.Piece;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="refreshReference" id="chess/PieceManager#refreshReference(Lchess.Piece;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="released" id="chess/PieceManager#released(Ljava.awt.event.MouseEvent;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setCheck" id="chess/PieceManager#setCheck(ZZ)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setSelectedPiece" id="chess/PieceManager#setSelectedPiece(Lchess.Piece;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="tempKill" id="chess/PieceManager#tempKill(Lchess.Piece;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="tempRevive" id="chess/PieceManager#tempRevive()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/PieceManager->chess/Piece" source="//@children.1" target="//@children.18" targetEnd="//@children.1/@sourceConnections.0/@children.2" label="//@children.1/@sourceConnections.0/@children.0" sourceEnd="//@children.1/@sourceConnections.0/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«import»" size="41,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="224,505" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,587"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/PieceManager->chess/King" source="//@children.1" target="//@children.17" targetEnd="//@children.1/@sourceConnections.1/@children.2" label="//@children.1/@sourceConnections.1/@children.0" sourceEnd="//@children.1/@sourceConnections.1/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="224,1011" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="10,0"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" id="chess/PieceManager->chess/Chess" source="//@children.1" target="//@children.7" targetEnd="//@children.1/@sourceConnections.2/@children.2" label="//@children.1/@sourceConnections.2/@children.0" sourceEnd="//@children.1/@sourceConnections.2/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="10,1011" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="202,20"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" id="chess/PieceManager->chess/Chess" source="//@children.1" target="//@children.7" targetEnd="//@children.1/@sourceConnections.3/@children.2" label="//@children.1/@sourceConnections.3/@children.0" sourceEnd="//@children.1/@sourceConnections.3/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«import»" size="41,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="10,1031" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="201,0"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/PieceManager->fresh/Debug" source="//@children.1" target="//@children.6" targetEnd="//@children.1/@sourceConnections.4/@children.2" label="//@children.1/@sourceConnections.4/@children.0" sourceEnd="//@children.1/@sourceConnections.4/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="10,0" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="157,543"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/PieceManager->chess/Board" source="//@children.1" target="//@children.3" targetEnd="//@children.1/@sourceConnections.5/@children.2" label="//@children.1/@sourceConnections.5/@children.0" sourceEnd="//@children.1/@sourceConnections.5/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,572" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="155,447"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" id="chess/PieceManager->chess/Move" source="//@children.1" target="//@children.4" targetEnd="//@children.1/@sourceConnections.6/@children.2" label="//@children.1/@sourceConnections.6/@children.0" sourceEnd="//@children.1/@sourceConnections.6/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«import»" size="41,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,508" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="146,446"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" targetConnections="//@children.12/@sourceConnections.4 //@children.12/@sourceConnections.5" name="AI" location="2409,35" size="174,535" id="chess/AI" runTimeClassModel="sKILL_HARD_MOVES,equals(Z),sKILL_HARD_CODE,ScoreAllMoves(),equals(Ljava.lang.Object;),sKILL_MEDIUM_CODE,skill,sKILL_MEDIUM_MOVES,sKILL_DEFAULT,KillAI(),StopAI(),setSkill(I),StartAI(),Act(),toString(),counter,run(),sKILL_EASY_CODE,AI(ZI),ForceMove(),sKILL_EASY_MOVES,RandomMove(),AI(Z),equals(Lchess.AI;),parent,getTeam(),setParent(Lchess.AIManager;)">
+    <children xsi:type="editmodel:CompartmentEditModel" size="151,180">
+      <children xsi:type="editmodel:AttributeEditModel" name="counter" id="chess/AI#counter"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="parent" id="chess/AI#parent"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="sKILL_DEFAULT" id="chess/AI#sKILL_DEFAULT"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="sKILL_EASY_CODE" id="chess/AI#sKILL_EASY_CODE"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="sKILL_EASY_MOVES" id="chess/AI#sKILL_EASY_MOVES"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="sKILL_HARD_CODE" id="chess/AI#sKILL_HARD_CODE"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="sKILL_HARD_MOVES" id="chess/AI#sKILL_HARD_MOVES"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="sKILL_MEDIUM_CODE" id="chess/AI#sKILL_MEDIUM_CODE"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="sKILL_MEDIUM_MOVES" id="chess/AI#sKILL_MEDIUM_MOVES"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="skill" id="chess/AI#skill"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="103,306">
+      <children xsi:type="editmodel:MethodEditModel" name="AI" id="chess/AI#AI(Z)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="AI" id="chess/AI#AI(ZI)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="Act" id="chess/AI#Act()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="ForceMove" id="chess/AI#ForceMove()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="KillAI" id="chess/AI#KillAI()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="RandomMove" id="chess/AI#RandomMove()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="ScoreAllMoves" id="chess/AI#ScoreAllMoves()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="StartAI" id="chess/AI#StartAI()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="StopAI" id="chess/AI#StopAI()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="equals" id="chess/AI#equals(Ljava.lang.Object;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="equals" id="chess/AI#equals(Lchess.AI;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="equals" id="chess/AI#equals(Z)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getTeam" id="chess/AI#getTeam()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="run" id="chess/AI#run()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setParent" id="chess/AI#setParent(Lchess.AIManager;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setSkill" id="chess/AI#setSkill(I)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="toString" id="chess/AI#toString()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" id="chess/AI->chess/AIManager" source="//@children.2" target="//@children.12" targetEnd="//@children.2/@sourceConnections.0/@children.2" label="//@children.2/@sourceConnections.0/@children.0" sourceEnd="//@children.2/@sourceConnections.0/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«import»" size="41,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,20" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="98,283"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/AI->chess/PieceManager" source="//@children.2" target="//@children.1" targetEnd="//@children.2/@sourceConnections.1/@children.2" label="//@children.2/@sourceConnections.1/@children.0" sourceEnd="//@children.2/@sourceConnections.1/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="91,535" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="81,0"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" id="chess/AI->chess/Move" source="//@children.2" target="//@children.4" targetEnd="//@children.2/@sourceConnections.2/@children.2" label="//@children.2/@sourceConnections.2/@children.0" sourceEnd="//@children.2/@sourceConnections.2/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,301" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="146,233"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/AI->chess/Chess" source="//@children.2" target="//@children.7" targetEnd="//@children.2/@sourceConnections.3/@children.2" label="//@children.2/@sourceConnections.3/@children.0" sourceEnd="//@children.2/@sourceConnections.3/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,525" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="192,0"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/AI->fresh/Debug" source="//@children.2" target="//@children.6" targetEnd="//@children.2/@sourceConnections.4/@children.2" label="//@children.2/@sourceConnections.4/@children.0" sourceEnd="//@children.2/@sourceConnections.4/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,258" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="157,293"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" targetConnections="//@children.18/@sourceConnections.1 //@children.14/@sourceConnections.5 //@children.20/@sourceConnections.4 //@children.17/@sourceConnections.5 //@children.1/@sourceConnections.5 //@children.4/@sourceConnections.8 //@children.8/@sourceConnections.2 //@children.5/@sourceConnections.4 //@children.11/@sourceConnections.0 //@children.7/@sourceConnections.6" name="Board" location="1100,1361" size="155,913" id="chess/Board" runTimeClassModel="letterFrac,lineFrac,protectColor,set(Ljava.lang.String;ILjava.awt.Color;),squares(),setDefaults(),set(Ljava.lang.String;Ljava.awt.Color;),killColor,flip(),getNumber(I),set(Ljava.lang.String;D),files,letterFont,squareSize,borderSize,highlightFrac,Reverse([[Ljava.awt.Rectangle;),square(II),contains(BBLchess.Piece;),getLocation(II),getSquareSize(),setPreferences(I),contains(Lchess.Piece;),graphics,minSize,borderColor,files(),paint(Ljava.awt.Graphics;),isFlipped(),InvalidMove(),letterColor,squareSize(),getLetter(I),randomColors(),ranks(),borderFrac,Board(Lchess.Chess;),thread,run(),highlightColor,setInvalidMove(Ljava.lang.String;),squareColor,highlightSize,backgroundColor,lineSize,parent,ranks,lineColor">
+    <children xsi:type="editmodel:CompartmentEditModel" size="132,414">
+      <children xsi:type="editmodel:AttributeEditModel" name="backgroundColor" id="chess/Board#backgroundColor"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="borderColor" id="chess/Board#borderColor"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="borderFrac" id="chess/Board#borderFrac"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="borderSize" id="chess/Board#borderSize"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="files" id="chess/Board#files"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="graphics" id="chess/Board#graphics"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="highlightColor" id="chess/Board#highlightColor"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="highlightFrac" id="chess/Board#highlightFrac"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="highlightSize" id="chess/Board#highlightSize"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="killColor" id="chess/Board#killColor"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="letterColor" id="chess/Board#letterColor"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="letterFont" id="chess/Board#letterFont"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="letterFrac" id="chess/Board#letterFrac"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="lineColor" id="chess/Board#lineColor"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="lineFrac" id="chess/Board#lineFrac"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="lineSize" id="chess/Board#lineSize"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="minSize" id="chess/Board#minSize"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="parent" id="chess/Board#parent"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="protectColor" id="chess/Board#protectColor"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="ranks" id="chess/Board#ranks"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="squareColor" id="chess/Board#squareColor"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="squareSize" id="chess/Board#squareSize"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="thread" id="chess/Board#thread"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="105,450">
+      <children xsi:type="editmodel:MethodEditModel" name="Board" id="chess/Board#Board(Lchess.Chess;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="InvalidMove" id="chess/Board#InvalidMove()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="Reverse" id="chess/Board#Reverse([[Ljava.awt.Rectangle;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="contains" id="chess/Board#contains(Lchess.Piece;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="contains" id="chess/Board#contains(BBLchess.Piece;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="files" id="chess/Board#files()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="flip" id="chess/Board#flip()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getLetter" id="chess/Board#getLetter(I)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getLocation" id="chess/Board#getLocation(II)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getNumber" id="chess/Board#getNumber(I)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getSquareSize" id="chess/Board#getSquareSize()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="isFlipped" id="chess/Board#isFlipped()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="paint" id="chess/Board#paint(Ljava.awt.Graphics;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="randomColors" id="chess/Board#randomColors()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="ranks" id="chess/Board#ranks()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="run" id="chess/Board#run()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="set" id="chess/Board#set(Ljava.lang.String;Ljava.awt.Color;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="set" id="chess/Board#set(Ljava.lang.String;ILjava.awt.Color;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="set" id="chess/Board#set(Ljava.lang.String;D)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setDefaults" id="chess/Board#setDefaults()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setInvalidMove" id="chess/Board#setInvalidMove(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setPreferences" id="chess/Board#setPreferences(I)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="square" id="chess/Board#square(II)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="squareSize" id="chess/Board#squareSize()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="squares" id="chess/Board#squares()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Board->chess/Info" source="//@children.3" target="//@children.13" targetEnd="//@children.3/@sourceConnections.0/@children.2" label="//@children.3/@sourceConnections.0/@children.0" sourceEnd="//@children.3/@sourceConnections.0/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="10,0" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="214,569"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" id="chess/Board->chess/Piece" source="//@children.3" target="//@children.18" targetEnd="//@children.3/@sourceConnections.1/@children.2" label="//@children.3/@sourceConnections.1/@children.0" sourceEnd="//@children.3/@sourceConnections.1/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«import»" size="41,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="10,10" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="180,1073"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" id="chess/Board->chess/PieceManager" source="//@children.3" target="//@children.1" targetEnd="//@children.3/@sourceConnections.2/@children.2" label="//@children.3/@sourceConnections.2/@children.0" sourceEnd="//@children.3/@sourceConnections.2/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="145,10" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,1001"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Board->fresh/MyMethods" source="//@children.3" target="//@children.0" targetEnd="//@children.3/@sourceConnections.3/@children.2" label="//@children.3/@sourceConnections.3/@children.0" sourceEnd="//@children.3/@sourceConnections.3/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,37" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="173,748"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" id="chess/Board->chess/Chess" source="//@children.3" target="//@children.7" targetEnd="//@children.3/@sourceConnections.4/@children.2" label="//@children.3/@sourceConnections.4/@children.0" sourceEnd="//@children.3/@sourceConnections.4/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="155,98" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,976"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Board->chess/Chess" source="//@children.3" target="//@children.7" targetEnd="//@children.3/@sourceConnections.5/@children.2" label="//@children.3/@sourceConnections.5/@children.0" sourceEnd="//@children.3/@sourceConnections.5/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«import»" size="41,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="155,456" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,558"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Board->fresh/Debug" source="//@children.3" target="//@children.6" targetEnd="//@children.3/@sourceConnections.6/@children.2" label="//@children.3/@sourceConnections.6/@children.0" sourceEnd="//@children.3/@sourceConnections.6/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="10,0" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="157,543"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" targetConnections="//@children.18/@sourceConnections.9 //@children.14/@sourceConnections.6 //@children.20/@sourceConnections.3 //@children.17/@sourceConnections.6 //@children.1/@sourceConnections.6 //@children.7/@sourceConnections.7 //@children.8/@sourceConnections.3 //@children.2/@sourceConnections.2 //@children.10/@sourceConnections.3" name="Move" location="2690,2950" size="146,913" id="chess/Move" runTimeClassModel="Move(Lchess.Piece;Ljava.awt.Point;),getNotation(),Move(Ljava.awt.Point;Lchess.Piece;),kING,equals(Ljava.lang.Object;),getScore(),Move(Lchess.Piece;Ljava.awt.Point;Lchess.Piece;Ljava.awt.Point;Ljava.lang.String;),getPrey(),cASTLELEFT,Move(IILchess.Piece;Ljava.lang.String;),Move(Lchess.Piece;Ljava.awt.Point;Ljava.lang.String;),bISHIP,saveString(),getEndX(),qUEEN,appendToNotation(Ljava.lang.String;),rOOK,cASTLERIGHT,cHECKMATE,turnNotationOn(),notation,score,getEndY(),getStart(),TrimTo(Ljava.util.ArrayList;I),CalcScore(),getEnd(),SortMoves(Ljava.util.ArrayList;),CalcScore(Lchess.Move;),cHECK,pAWN,iD,Move(Ljava.awt.Point;Lchess.Piece;Ljava.lang.String;),toString(),getID(),getSpecial(),dEBUGBO,perform(),Move(Lchess.Piece;IILchess.Piece;IILjava.lang.String;),lOGNAME,turnNotationOff(),Move(IILchess.Piece;),Move(Lchess.Piece;IILjava.lang.String;),getStartX(),getParent(),kNIGHT,Move(Lchess.Piece;II),getStartY()">
+    <children xsi:type="editmodel:CompartmentEditModel" size="123,270">
+      <children xsi:type="editmodel:AttributeEditModel" name="bISHIP" id="chess/Move#bISHIP"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="cASTLELEFT" id="chess/Move#cASTLELEFT"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="cASTLERIGHT" id="chess/Move#cASTLERIGHT"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="cHECK" id="chess/Move#cHECK"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="cHECKMATE" id="chess/Move#cHECKMATE"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="dEBUGBO" id="chess/Move#dEBUGBO"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="iD" id="chess/Move#iD"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="kING" id="chess/Move#kING"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="kNIGHT" id="chess/Move#kNIGHT"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="lOGNAME" id="chess/Move#lOGNAME"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="notation" id="chess/Move#notation"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="pAWN" id="chess/Move#pAWN"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="qUEEN" id="chess/Move#qUEEN"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="rOOK" id="chess/Move#rOOK"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="score" id="chess/Move#score"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="117,594">
+      <children xsi:type="editmodel:MethodEditModel" name="CalcScore" id="chess/Move#CalcScore()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="CalcScore" id="chess/Move#CalcScore(Lchess.Move;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="Move" id="chess/Move#Move(IILchess.Piece;Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="Move" id="chess/Move#Move(Ljava.awt.Point;Lchess.Piece;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="Move" id="chess/Move#Move(Lchess.Piece;II)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="Move" id="chess/Move#Move(Lchess.Piece;Ljava.awt.Point;Lchess.Piece;Ljava.awt.Point;Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="Move" id="chess/Move#Move(Lchess.Piece;IILchess.Piece;IILjava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="Move" id="chess/Move#Move(Lchess.Piece;Ljava.awt.Point;Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="Move" id="chess/Move#Move(Lchess.Piece;IILjava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="Move" id="chess/Move#Move(IILchess.Piece;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="Move" id="chess/Move#Move(Ljava.awt.Point;Lchess.Piece;Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="Move" id="chess/Move#Move(Lchess.Piece;Ljava.awt.Point;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="SortMoves" id="chess/Move#SortMoves(Ljava.util.ArrayList;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="TrimTo" id="chess/Move#TrimTo(Ljava.util.ArrayList;I)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="appendToNotation" id="chess/Move#appendToNotation(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="equals" id="chess/Move#equals(Ljava.lang.Object;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getEnd" id="chess/Move#getEnd()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getEndX" id="chess/Move#getEndX()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getEndY" id="chess/Move#getEndY()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getID" id="chess/Move#getID()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getNotation" id="chess/Move#getNotation()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getParent" id="chess/Move#getParent()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getPrey" id="chess/Move#getPrey()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getScore" id="chess/Move#getScore()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getSpecial" id="chess/Move#getSpecial()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getStart" id="chess/Move#getStart()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getStartX" id="chess/Move#getStartX()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getStartY" id="chess/Move#getStartY()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="perform" id="chess/Move#perform()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="saveString" id="chess/Move#saveString()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="toString" id="chess/Move#toString()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="turnNotationOff" id="chess/Move#turnNotationOff()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="turnNotationOn" id="chess/Move#turnNotationOn()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" id="chess/Move->chess/Piece" source="//@children.4" target="//@children.18" targetEnd="//@children.4/@sourceConnections.0/@children.2" label="//@children.4/@sourceConnections.0/@children.0" sourceEnd="//@children.4/@sourceConnections.0/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,713" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="180,199"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Move->chess/Rook" source="//@children.4" target="//@children.16" targetEnd="//@children.4/@sourceConnections.1/@children.2" label="//@children.4/@sourceConnections.1/@children.0" sourceEnd="//@children.4/@sourceConnections.1/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="13,0" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="63,103"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" id="chess/Move->chess/Pawn" source="//@children.4" target="//@children.14" targetEnd="//@children.4/@sourceConnections.2/@children.2" label="//@children.4/@sourceConnections.2/@children.0" sourceEnd="//@children.4/@sourceConnections.2/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,913" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="81,-1"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Move->chess/Queen" source="//@children.4" target="//@children.19" targetEnd="//@children.4/@sourceConnections.3/@children.2" label="//@children.4/@sourceConnections.3/@children.0" sourceEnd="//@children.4/@sourceConnections.3/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="146,10" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="10,103"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Move->chess/Biship" source="//@children.4" target="//@children.15" targetEnd="//@children.4/@sourceConnections.4/@children.2" label="//@children.4/@sourceConnections.4/@children.0" sourceEnd="//@children.4/@sourceConnections.4/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="107,0" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="37,103"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" id="chess/Move->chess/King" source="//@children.4" target="//@children.17" targetEnd="//@children.4/@sourceConnections.5/@children.2" label="//@children.4/@sourceConnections.5/@children.0" sourceEnd="//@children.4/@sourceConnections.5/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,913" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="74,-1"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Move->chess/PieceManager" source="//@children.4" target="//@children.1" targetEnd="//@children.4/@sourceConnections.6/@children.2" label="//@children.4/@sourceConnections.6/@children.0" sourceEnd="//@children.4/@sourceConnections.6/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,10" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="214,1021"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Move->fresh/MyMethods" source="//@children.4" target="//@children.0" targetEnd="//@children.4/@sourceConnections.7/@children.2" label="//@children.4/@sourceConnections.7/@children.0" sourceEnd="//@children.4/@sourceConnections.7/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="10,0" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="173,777"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Move->chess/Board" source="//@children.4" target="//@children.3" targetEnd="//@children.4/@sourceConnections.8/@children.2" label="//@children.4/@sourceConnections.8/@children.0" sourceEnd="//@children.4/@sourceConnections.8/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,10" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="145,913"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Move->fresh/Debug" source="//@children.4" target="//@children.6" targetEnd="//@children.4/@sourceConnections.9/@children.2" label="//@children.4/@sourceConnections.9/@children.0" sourceEnd="//@children.4/@sourceConnections.9/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="10,0" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="157,543"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" id="chess/Move->chess/Piece" source="//@children.4" target="//@children.18" targetEnd="//@children.4/@sourceConnections.10/@children.2" label="//@children.4/@sourceConnections.10/@children.0" sourceEnd="//@children.4/@sourceConnections.10/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«import»" size="41,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,733" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="180,179"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" id="chess/Move->chess/Knight" source="//@children.4" target="//@children.20" targetEnd="//@children.4/@sourceConnections.11/@children.2" label="//@children.4/@sourceConnections.11/@children.0" sourceEnd="//@children.4/@sourceConnections.11/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="57,0" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="73,103"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" targetConnections="//@children.7/@sourceConnections.8" name="Console" location="1880,2339" size="200,319" id="chess/Console" runTimeClassModel="WriteToLog(Ljava.lang.String;),show(),completeCommandList,keyPressed(Ljava.awt.event.KeyEvent;),getAllInputCommands(),getCompleteCommandList(),currentInputCommandsX,keyTyped(Ljava.awt.event.KeyEvent;),addInfo(Ljava.lang.String;),translate(Ljava.lang.String;),allInputCommands,keyReleased(Ljava.awt.event.KeyEvent;),actionPerformed(Ljava.awt.event.ActionEvent;),Console(Lchess.Chess;),WriteToLog(Ljava.util.ArrayList;)">
+    <children xsi:type="editmodel:CompartmentEditModel" size="177,54">
+      <children xsi:type="editmodel:AttributeEditModel" name="allInputCommands" id="chess/Console#allInputCommands"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="completeCommandList" id="chess/Console#completeCommandList"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="currentInputCommandsX" id="chess/Console#currentInputCommandsX"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="153,216">
+      <children xsi:type="editmodel:MethodEditModel" name="Console" id="chess/Console#Console(Lchess.Chess;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="WriteToLog" id="chess/Console#WriteToLog(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="WriteToLog" id="chess/Console#WriteToLog(Ljava.util.ArrayList;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="actionPerformed" id="chess/Console#actionPerformed(Ljava.awt.event.ActionEvent;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="addInfo" id="chess/Console#addInfo(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getAllInputCommands" id="chess/Console#getAllInputCommands()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getCompleteCommandList" id="chess/Console#getCompleteCommandList()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="keyPressed" id="chess/Console#keyPressed(Ljava.awt.event.KeyEvent;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="keyReleased" id="chess/Console#keyReleased(Ljava.awt.event.KeyEvent;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="keyTyped" id="chess/Console#keyTyped(Ljava.awt.event.KeyEvent;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="show" id="chess/Console#show()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="translate" id="chess/Console#translate(Ljava.lang.String;)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Console->chess/Info" source="//@children.5" target="//@children.13" targetEnd="//@children.5/@sourceConnections.0/@children.2" label="//@children.5/@sourceConnections.0/@children.0" sourceEnd="//@children.5/@sourceConnections.0/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="10,0" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="214,569"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Console->chess/Piece" source="//@children.5" target="//@children.18" targetEnd="//@children.5/@sourceConnections.1/@children.2" label="//@children.5/@sourceConnections.1/@children.0" sourceEnd="//@children.5/@sourceConnections.1/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«import»" size="41,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="200,10" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="10,1093"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Console->chess/PieceManager" source="//@children.5" target="//@children.1" targetEnd="//@children.5/@sourceConnections.2/@children.2" label="//@children.5/@sourceConnections.2/@children.0" sourceEnd="//@children.5/@sourceConnections.2/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="190,0" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,1011"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Console->fresh/MyMethods" source="//@children.5" target="//@children.0" targetEnd="//@children.5/@sourceConnections.3/@children.2" label="//@children.5/@sourceConnections.3/@children.0" sourceEnd="//@children.5/@sourceConnections.3/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="10,0" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="173,777"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Console->chess/Board" source="//@children.5" target="//@children.3" targetEnd="//@children.5/@sourceConnections.4/@children.2" label="//@children.5/@sourceConnections.4/@children.0" sourceEnd="//@children.5/@sourceConnections.4/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="10,0" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="155,903"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" id="chess/Console->chess/Chess" source="//@children.5" target="//@children.7" targetEnd="//@children.5/@sourceConnections.5/@children.2" label="//@children.5/@sourceConnections.5/@children.0" sourceEnd="//@children.5/@sourceConnections.5/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="200,149" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,777"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Console->fresh/Debug" source="//@children.5" target="//@children.6" targetEnd="//@children.5/@sourceConnections.6/@children.2" label="//@children.5/@sourceConnections.6/@children.0" sourceEnd="//@children.5/@sourceConnections.6/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="10,0" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="157,543"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Console->chess/InfoWindowMenu" source="//@children.5" target="//@children.8" targetEnd="//@children.5/@sourceConnections.7/@children.2" label="//@children.5/@sourceConnections.7/@children.0" sourceEnd="//@children.5/@sourceConnections.7/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,309" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="235,0"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Console->chess/InfoWindow" source="//@children.5" target="//@children.9" targetEnd="//@children.5/@sourceConnections.8/@children.2" label="//@children.5/@sourceConnections.8/@children.0" sourceEnd="//@children.5/@sourceConnections.8/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,309" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="148,0"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" id="chess/Console->chess/Chess" source="//@children.5" target="//@children.7" targetEnd="//@children.5/@sourceConnections.9/@children.2" label="//@children.5/@sourceConnections.9/@children.0" sourceEnd="//@children.5/@sourceConnections.9/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«import»" size="41,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="200,169" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,757"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" targetConnections="//@children.12/@sourceConnections.3 //@children.18/@sourceConnections.3 //@children.1/@sourceConnections.4 //@children.3/@sourceConnections.6 //@children.4/@sourceConnections.9 //@children.7/@sourceConnections.10 //@children.8/@sourceConnections.5 //@children.2/@sourceConnections.4 //@children.5/@sourceConnections.6 //@children.11/@sourceConnections.2" name="Debug" location="400,0" size="157,553" id="fresh/Debug" runTimeClassModel="CloseFile(Ljava.lang.String;),LogIncident(Ljava.lang.String;),CreateNewFile(Ljava.lang.String;),AddTaggedInfoToLog(Ljava.lang.String;),Debug(Ljava.lang.String;Ljava.lang.String;),CreateCompleteFile(Ljava.lang.String;Ljava.lang.String;[Ljava.lang.Object;),WriteToFile(Ljava.lang.String;Ljava.lang.String;),printAndAdd(Ljava.lang.String;),turnOff(),print(Ljava.lang.String;),printAndAdd(Ljava.util.ArrayList;),println(Ljava.lang.String;),CreateCompleteFile(Ljava.lang.String;Ljava.lang.String;[Ljava.lang.String;),OutputFileList(),AddInfoToLog(Ljava.lang.String;),restoreState(),Debug(),ShowSaveWindow(Ljava.awt.Component;),CreateCompleteFile(Ljava.lang.String;Ljava.lang.String;Ljava.util.ArrayList;),isOn(),WriteToFile(Ljava.lang.String;Ljava.util.ArrayList;),isOff(),printAndForceAdd(Ljava.util.ArrayList;),CloseAllFiles(),Debug(Ljava.lang.String;),println(Ljava.util.ArrayList;),turnOn(),printAndForceAdd(Ljava.lang.String;)">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="134,504">
+      <children xsi:type="editmodel:MethodEditModel" name="AddInfoToLog" id="fresh/Debug#AddInfoToLog(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="AddTaggedInfoToLog" id="fresh/Debug#AddTaggedInfoToLog(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="CloseAllFiles" id="fresh/Debug#CloseAllFiles()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="CloseFile" id="fresh/Debug#CloseFile(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="CreateCompleteFile" id="fresh/Debug#CreateCompleteFile(Ljava.lang.String;Ljava.lang.String;Ljava.util.ArrayList;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="CreateCompleteFile" id="fresh/Debug#CreateCompleteFile(Ljava.lang.String;Ljava.lang.String;[Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="CreateCompleteFile" id="fresh/Debug#CreateCompleteFile(Ljava.lang.String;Ljava.lang.String;[Ljava.lang.Object;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="CreateNewFile" id="fresh/Debug#CreateNewFile(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="Debug" id="fresh/Debug#Debug(Ljava.lang.String;Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="Debug" id="fresh/Debug#Debug()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="Debug" id="fresh/Debug#Debug(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="LogIncident" id="fresh/Debug#LogIncident(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="OutputFileList" id="fresh/Debug#OutputFileList()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="ShowSaveWindow" id="fresh/Debug#ShowSaveWindow(Ljava.awt.Component;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="WriteToFile" id="fresh/Debug#WriteToFile(Ljava.lang.String;Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="WriteToFile" id="fresh/Debug#WriteToFile(Ljava.lang.String;Ljava.util.ArrayList;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="isOff" id="fresh/Debug#isOff()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="isOn" id="fresh/Debug#isOn()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="print" id="fresh/Debug#print(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="printAndAdd" id="fresh/Debug#printAndAdd(Ljava.util.ArrayList;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="printAndAdd" id="fresh/Debug#printAndAdd(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="printAndForceAdd" id="fresh/Debug#printAndForceAdd(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="printAndForceAdd" id="fresh/Debug#printAndForceAdd(Ljava.util.ArrayList;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="println" id="fresh/Debug#println(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="println" id="fresh/Debug#println(Ljava.util.ArrayList;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="restoreState" id="fresh/Debug#restoreState()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="turnOff" id="fresh/Debug#turnOff()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="turnOn" id="fresh/Debug#turnOn()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="fresh/Debug->fresh/MyMethods" source="//@children.6" target="//@children.0" targetEnd="//@children.6/@sourceConnections.0/@children.2" label="//@children.6/@sourceConnections.0/@children.0" sourceEnd="//@children.6/@sourceConnections.0/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="62,553" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="110,0"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" targetConnections="//@children.12/@sourceConnections.1 //@children.18/@sourceConnections.12 //@children.14/@sourceConnections.3 //@children.1/@sourceConnections.2 //@children.1/@sourceConnections.3 //@children.3/@sourceConnections.4 //@children.3/@sourceConnections.5 //@children.8/@sourceConnections.4 //@children.2/@sourceConnections.3 //@children.5/@sourceConnections.5 //@children.9/@sourceConnections.0 //@children.11/@sourceConnections.1 //@children.10/@sourceConnections.4 //@children.5/@sourceConnections.9 //@children.9/@sourceConnections.2 //@children.11/@sourceConnections.3 //@children.10/@sourceConnections.5" name="Chess" location="1494,1259" size="202,1075" id="chess/Chess" runTimeClassModel="console,repaint(),UndoMove(),oNE_PLAYER_BLACK_CODE,setDefaults(),windowActivated(Ljava.awt.event.WindowEvent;),mouseDragged(Ljava.awt.event.MouseEvent;),tWO_PLAYER_CODE,viewAllChecksBO,container,windowOpened(Ljava.awt.event.WindowEvent;),keyReleased(Ljava.awt.event.KeyEvent;),isChecked(Z),windowClosed(Ljava.awt.event.WindowEvent;),keyPressed(Ljava.awt.event.KeyEvent;),Save(),mouseWheelMoved(Ljava.awt.event.MouseWheelEvent;),gameModeBO,LogMove(Lchess.Move;),mouseClicked(Ljava.awt.event.MouseEvent;),ai,viewAllMovesBO,mouseMoved(Ljava.awt.event.MouseEvent;),board,standardPictures,mousePressed(Ljava.awt.event.MouseEvent;),pieceManager,oNE_PLAYER_WHITE_CODE,windowIconified(Ljava.awt.event.WindowEvent;),NewGame(I),viewMovesBO,ClearMoveStack(),mouseExited(Ljava.awt.event.MouseEvent;),isGameOver(),main([Ljava.lang.String;),mouseReleased(Ljava.awt.event.MouseEvent;),paint(Ljava.awt.Graphics;),Load(),pawnPromoter,Chess(),showHelpModeBO,pawnPromoter(),keyTyped(Ljava.awt.event.KeyEvent;),mouseEntered(Ljava.awt.event.MouseEvent;),windowDeactivated(Ljava.awt.event.WindowEvent;),windowClosing(Ljava.awt.event.WindowEvent;),closing,setGameOver(Z),getPieceManager(),SystemExit(),viewChecksBO,isWhiteMove(),windowDeiconified(Ljava.awt.event.WindowEvent;),infoWindow,GetMoveStack(),panel,aI_PLAYER_CODE">
+    <children xsi:type="editmodel:CompartmentEditModel" size="179,360">
+      <children xsi:type="editmodel:AttributeEditModel" name="aI_PLAYER_CODE" id="chess/Chess#aI_PLAYER_CODE"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="ai" id="chess/Chess#ai"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="board" id="chess/Chess#board"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="closing" id="chess/Chess#closing"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="console" id="chess/Chess#console"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="container" id="chess/Chess#container"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="gameModeBO" id="chess/Chess#gameModeBO"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="infoWindow" id="chess/Chess#infoWindow"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="oNE_PLAYER_BLACK_CODE" id="chess/Chess#oNE_PLAYER_BLACK_CODE"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="oNE_PLAYER_WHITE_CODE" id="chess/Chess#oNE_PLAYER_WHITE_CODE"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="panel" id="chess/Chess#panel"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="pawnPromoter" id="chess/Chess#pawnPromoter"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="pieceManager" id="chess/Chess#pieceManager"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="showHelpModeBO" id="chess/Chess#showHelpModeBO"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="standardPictures" id="chess/Chess#standardPictures"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="tWO_PLAYER_CODE" id="chess/Chess#tWO_PLAYER_CODE"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="viewAllChecksBO" id="chess/Chess#viewAllChecksBO"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="viewAllMovesBO" id="chess/Chess#viewAllMovesBO"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="viewChecksBO" id="chess/Chess#viewChecksBO"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="viewMovesBO" id="chess/Chess#viewMovesBO"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="127,666">
+      <children xsi:type="editmodel:MethodEditModel" name="Chess" id="chess/Chess#Chess()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="ClearMoveStack" id="chess/Chess#ClearMoveStack()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="GetMoveStack" id="chess/Chess#GetMoveStack()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="Load" id="chess/Chess#Load()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="LogMove" id="chess/Chess#LogMove(Lchess.Move;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="NewGame" id="chess/Chess#NewGame(I)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="Save" id="chess/Chess#Save()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="SystemExit" id="chess/Chess#SystemExit()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="UndoMove" id="chess/Chess#UndoMove()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getPieceManager" id="chess/Chess#getPieceManager()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="isChecked" id="chess/Chess#isChecked(Z)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="isGameOver" id="chess/Chess#isGameOver()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="isWhiteMove" id="chess/Chess#isWhiteMove()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="keyPressed" id="chess/Chess#keyPressed(Ljava.awt.event.KeyEvent;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="keyReleased" id="chess/Chess#keyReleased(Ljava.awt.event.KeyEvent;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="keyTyped" id="chess/Chess#keyTyped(Ljava.awt.event.KeyEvent;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="main" id="chess/Chess#main([Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="mouseClicked" id="chess/Chess#mouseClicked(Ljava.awt.event.MouseEvent;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="mouseDragged" id="chess/Chess#mouseDragged(Ljava.awt.event.MouseEvent;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="mouseEntered" id="chess/Chess#mouseEntered(Ljava.awt.event.MouseEvent;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="mouseExited" id="chess/Chess#mouseExited(Ljava.awt.event.MouseEvent;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="mouseMoved" id="chess/Chess#mouseMoved(Ljava.awt.event.MouseEvent;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="mousePressed" id="chess/Chess#mousePressed(Ljava.awt.event.MouseEvent;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="mouseReleased" id="chess/Chess#mouseReleased(Ljava.awt.event.MouseEvent;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="mouseWheelMoved" id="chess/Chess#mouseWheelMoved(Ljava.awt.event.MouseWheelEvent;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="paint" id="chess/Chess#paint(Ljava.awt.Graphics;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="pawnPromoter" id="chess/Chess#pawnPromoter()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="repaint" id="chess/Chess#repaint()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setDefaults" id="chess/Chess#setDefaults()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setGameOver" id="chess/Chess#setGameOver(Z)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="windowActivated" id="chess/Chess#windowActivated(Ljava.awt.event.WindowEvent;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="windowClosed" id="chess/Chess#windowClosed(Ljava.awt.event.WindowEvent;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="windowClosing" id="chess/Chess#windowClosing(Ljava.awt.event.WindowEvent;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="windowDeactivated" id="chess/Chess#windowDeactivated(Ljava.awt.event.WindowEvent;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="windowDeiconified" id="chess/Chess#windowDeiconified(Ljava.awt.event.WindowEvent;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="windowIconified" id="chess/Chess#windowIconified(Ljava.awt.event.WindowEvent;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="windowOpened" id="chess/Chess#windowOpened(Ljava.awt.event.WindowEvent;)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" id="chess/Chess->chess/Info" source="//@children.7" target="//@children.13" targetEnd="//@children.7/@sourceConnections.0/@children.2" label="//@children.7/@sourceConnections.0/@children.0" sourceEnd="//@children.7/@sourceConnections.0/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,10" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="214,555"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" id="chess/Chess->chess/AIManager" source="//@children.7" target="//@children.12" targetEnd="//@children.7/@sourceConnections.1/@children.2" label="//@children.7/@sourceConnections.1/@children.0" sourceEnd="//@children.7/@sourceConnections.1/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«import»" size="41,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="192,10" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,263"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" id="chess/Chess->chess/Piece" source="//@children.7" target="//@children.18" targetEnd="//@children.7/@sourceConnections.2/@children.2" label="//@children.7/@sourceConnections.2/@children.0" sourceEnd="//@children.7/@sourceConnections.2/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«import»" size="41,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,202" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="180,890"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" id="chess/Chess->chess/Pawn" source="//@children.7" target="//@children.14" targetEnd="//@children.7/@sourceConnections.3/@children.2" label="//@children.7/@sourceConnections.3/@children.0" sourceEnd="//@children.7/@sourceConnections.3/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,467" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="71,42"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Chess->chess/PieceManager" source="//@children.7" target="//@children.1" targetEnd="//@children.7/@sourceConnections.4/@children.2" label="//@children.7/@sourceConnections.4/@children.0" sourceEnd="//@children.7/@sourceConnections.4/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="202,499" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,522"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Chess->fresh/MyMethods" source="//@children.7" target="//@children.0" targetEnd="//@children.7/@sourceConnections.5/@children.2" label="//@children.7/@sourceConnections.5/@children.0" sourceEnd="//@children.7/@sourceConnections.5/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,89" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="173,698"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" id="chess/Chess->chess/Board" source="//@children.7" target="//@children.3" targetEnd="//@children.7/@sourceConnections.6/@children.1" sourceEnd="//@children.7/@sourceConnections.6/@children.0" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,562" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="155,694"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Chess->chess/Move" source="//@children.7" target="//@children.4" targetEnd="//@children.7/@sourceConnections.7/@children.2" label="//@children.7/@sourceConnections.7/@children.0" sourceEnd="//@children.7/@sourceConnections.7/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«import»" size="41,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="202,1065" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="10,0"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Chess->chess/Console" source="//@children.7" target="//@children.5" targetEnd="//@children.7/@sourceConnections.8/@children.2" label="//@children.7/@sourceConnections.8/@children.0" sourceEnd="//@children.7/@sourceConnections.8/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«import»" size="41,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="202,1065" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="10,0"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Chess->chess/InfoWindowMenu" source="//@children.7" target="//@children.8" targetEnd="//@children.7/@sourceConnections.9/@children.2" label="//@children.7/@sourceConnections.9/@children.0" sourceEnd="//@children.7/@sourceConnections.9/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="138,1075" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="63,0"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Chess->fresh/Debug" source="//@children.7" target="//@children.6" targetEnd="//@children.7/@sourceConnections.10/@children.2" label="//@children.7/@sourceConnections.10/@children.0" sourceEnd="//@children.7/@sourceConnections.10/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="10,0" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="157,543"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" id="chess/Chess->chess/InfoWindow" source="//@children.7" target="//@children.9" targetEnd="//@children.7/@sourceConnections.11/@children.2" label="//@children.7/@sourceConnections.11/@children.0" sourceEnd="//@children.7/@sourceConnections.11/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,1055" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="158,1"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" id="chess/Chess->chess/InfoWindow" source="//@children.7" target="//@children.9" targetEnd="//@children.7/@sourceConnections.12/@children.2" label="//@children.7/@sourceConnections.12/@children.0" sourceEnd="//@children.7/@sourceConnections.12/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«import»" size="41,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,1075" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="138,0"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" id="chess/Chess->chess/ChessMenu" source="//@children.7" target="//@children.11" targetEnd="//@children.7/@sourceConnections.13/@children.2" label="//@children.7/@sourceConnections.13/@children.0" sourceEnd="//@children.7/@sourceConnections.13/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«import»" size="41,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="192,1065" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,20"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" id="chess/Chess->chess/PawnPromoter" source="//@children.7" target="//@children.10" targetEnd="//@children.7/@sourceConnections.14/@children.2" label="//@children.7/@sourceConnections.14/@children.0" sourceEnd="//@children.7/@sourceConnections.14/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«import»" size="41,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="117,139"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" id="chess/Chess->chess/PieceManager" source="//@children.7" target="//@children.1" targetEnd="//@children.7/@sourceConnections.15/@children.2" label="//@children.7/@sourceConnections.15/@children.0" sourceEnd="//@children.7/@sourceConnections.15/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«import»" size="41,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="202,30" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="10,1001"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" targetConnections="//@children.7/@sourceConnections.9 //@children.5/@sourceConnections.7 //@children.9/@sourceConnections.1 //@children.9/@sourceConnections.3" name="InfoWindowMenu" location="1569,2669" size="245,355" id="chess/InfoWindowMenu" runTimeClassModel="Refresh(),pauseLen,InfoWindowMenu(Lchess.InfoWindow;),consoleErrorsItem,thread,isThreadRunning,run(),consoleMenu,mainRefreshItem,consoleOutputItem,mainTeamsItem,giveKey(Ljava.awt.event.KeyEvent;),actionPerformed(Ljava.awt.event.ActionEvent;),mainAutoUpdateItem,lastUsedItem,previouslyUsedItem,consoleHelpItem">
+    <children xsi:type="editmodel:CompartmentEditModel" size="222,216">
+      <children xsi:type="editmodel:AttributeEditModel" name="consoleErrorsItem" id="chess/InfoWindowMenu#consoleErrorsItem"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="consoleHelpItem" id="chess/InfoWindowMenu#consoleHelpItem"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="consoleMenu" id="chess/InfoWindowMenu#consoleMenu"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="consoleOutputItem" id="chess/InfoWindowMenu#consoleOutputItem"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="isThreadRunning" id="chess/InfoWindowMenu#isThreadRunning"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="lastUsedItem" id="chess/InfoWindowMenu#lastUsedItem"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="mainAutoUpdateItem" id="chess/InfoWindowMenu#mainAutoUpdateItem"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="mainRefreshItem" id="chess/InfoWindowMenu#mainRefreshItem"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="mainTeamsItem" id="chess/InfoWindowMenu#mainTeamsItem"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="pauseLen" id="chess/InfoWindowMenu#pauseLen"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="previouslyUsedItem" id="chess/InfoWindowMenu#previouslyUsedItem"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="thread" id="chess/InfoWindowMenu#thread"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="114,90">
+      <children xsi:type="editmodel:MethodEditModel" name="InfoWindowMenu" id="chess/InfoWindowMenu#InfoWindowMenu(Lchess.InfoWindow;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="Refresh" id="chess/InfoWindowMenu#Refresh()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="actionPerformed" id="chess/InfoWindowMenu#actionPerformed(Ljava.awt.event.ActionEvent;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="giveKey" id="chess/InfoWindowMenu#giveKey(Ljava.awt.event.KeyEvent;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="run" id="chess/InfoWindowMenu#run()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/InfoWindowMenu->chess/Piece" source="//@children.8" target="//@children.18" targetEnd="//@children.8/@sourceConnections.0/@children.2" label="//@children.8/@sourceConnections.0/@children.0" sourceEnd="//@children.8/@sourceConnections.0/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«import»" size="41,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="245,10" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="10,1093"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/InfoWindowMenu->chess/PieceManager" source="//@children.8" target="//@children.1" targetEnd="//@children.8/@sourceConnections.1/@children.2" label="//@children.8/@sourceConnections.1/@children.0" sourceEnd="//@children.8/@sourceConnections.1/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="235,0" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,1011"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/InfoWindowMenu->chess/Board" source="//@children.8" target="//@children.3" targetEnd="//@children.8/@sourceConnections.2/@children.2" label="//@children.8/@sourceConnections.2/@children.0" sourceEnd="//@children.8/@sourceConnections.2/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="10,0" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="155,903"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/InfoWindowMenu->chess/Move" source="//@children.8" target="//@children.4" targetEnd="//@children.8/@sourceConnections.3/@children.2" label="//@children.8/@sourceConnections.3/@children.0" sourceEnd="//@children.8/@sourceConnections.3/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«import»" size="41,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="245,318" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,37"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" id="chess/InfoWindowMenu->chess/Chess" source="//@children.8" target="//@children.7" targetEnd="//@children.8/@sourceConnections.4/@children.2" label="//@children.8/@sourceConnections.4/@children.0" sourceEnd="//@children.8/@sourceConnections.4/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="20,0" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="202,1055"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/InfoWindowMenu->fresh/Debug" source="//@children.8" target="//@children.6" targetEnd="//@children.8/@sourceConnections.5/@children.2" label="//@children.8/@sourceConnections.5/@children.0" sourceEnd="//@children.8/@sourceConnections.5/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="10,0" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="157,543"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/InfoWindowMenu->chess/InfoWindow" source="//@children.8" target="//@children.9" targetEnd="//@children.8/@sourceConnections.6/@children.2" label="//@children.8/@sourceConnections.6/@children.0" sourceEnd="//@children.8/@sourceConnections.6/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,217" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="158,137"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" id="chess/InfoWindowMenu->chess/InfoWindow" source="//@children.8" target="//@children.9" targetEnd="//@children.8/@sourceConnections.7/@children.2" label="//@children.8/@sourceConnections.7/@children.0" sourceEnd="//@children.8/@sourceConnections.7/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«import»" size="41,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,365" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="128,0"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" targetConnections="//@children.7/@sourceConnections.11 //@children.7/@sourceConnections.12 //@children.8/@sourceConnections.6 //@children.8/@sourceConnections.7 //@children.5/@sourceConnections.8" name="InfoWindow" location="1239,2749" size="158,301" id="chess/InfoWindow" runTimeClassModel="show(),OutputHelp(Ljava.util.ArrayList;),keyPressed(Ljava.awt.event.KeyEvent;),InfoWindow(Lchess.Chess;),keyTyped(Ljava.awt.event.KeyEvent;),Output(Ljava.lang.String;),clear(),keyReleased(Ljava.awt.event.KeyEvent;),Output([Ljava.lang.String;),textArea,hide(),menu,scroll,parent">
+    <children xsi:type="editmodel:CompartmentEditModel" size="135,72">
+      <children xsi:type="editmodel:AttributeEditModel" name="menu" id="chess/InfoWindow#menu"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="parent" id="chess/InfoWindow#parent"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="scroll" id="chess/InfoWindow#scroll"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="textArea" id="chess/InfoWindow#textArea"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="92,180">
+      <children xsi:type="editmodel:MethodEditModel" name="InfoWindow" id="chess/InfoWindow#InfoWindow(Lchess.Chess;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="Output" id="chess/InfoWindow#Output([Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="Output" id="chess/InfoWindow#Output(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="OutputHelp" id="chess/InfoWindow#OutputHelp(Ljava.util.ArrayList;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="clear" id="chess/InfoWindow#clear()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="hide" id="chess/InfoWindow#hide()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="keyPressed" id="chess/InfoWindow#keyPressed(Ljava.awt.event.KeyEvent;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="keyReleased" id="chess/InfoWindow#keyReleased(Ljava.awt.event.KeyEvent;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="keyTyped" id="chess/InfoWindow#keyTyped(Ljava.awt.event.KeyEvent;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="show" id="chess/InfoWindow#show()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" id="chess/InfoWindow->chess/Chess" source="//@children.9" target="//@children.7" targetEnd="//@children.9/@sourceConnections.0/@children.2" label="//@children.9/@sourceConnections.0/@children.0" sourceEnd="//@children.9/@sourceConnections.0/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="158,11" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,1045"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" id="chess/InfoWindow->chess/InfoWindowMenu" source="//@children.9" target="//@children.8" targetEnd="//@children.9/@sourceConnections.1/@children.2" label="//@children.9/@sourceConnections.1/@children.0" sourceEnd="//@children.9/@sourceConnections.1/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="138,0" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,355"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/InfoWindow->chess/Chess" source="//@children.9" target="//@children.7" targetEnd="//@children.9/@sourceConnections.2/@children.2" label="//@children.9/@sourceConnections.2/@children.0" sourceEnd="//@children.9/@sourceConnections.2/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«import»" size="41,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="148,0" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,1065"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" id="chess/InfoWindow->chess/InfoWindowMenu" source="//@children.9" target="//@children.8" targetEnd="//@children.9/@sourceConnections.3/@children.2" label="//@children.9/@sourceConnections.3/@children.0" sourceEnd="//@children.9/@sourceConnections.3/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«import»" size="41,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="148,10" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,335"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" targetConnections="//@children.7/@sourceConnections.14" name="PawnPromoter" location="2030,939" size="137,139" id="chess/PawnPromoter" runTimeClassModel="selectRandom(),PawnPromoter(Lchess.Chess;),actionPerformed(Ljava.awt.event.ActionEvent;),select(Ljava.lang.String;),show(Lchess.Move;)">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="109,90">
+      <children xsi:type="editmodel:MethodEditModel" name="PawnPromoter" id="chess/PawnPromoter#PawnPromoter(Lchess.Chess;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="actionPerformed" id="chess/PawnPromoter#actionPerformed(Ljava.awt.event.ActionEvent;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="select" id="chess/PawnPromoter#select(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="selectRandom" id="chess/PawnPromoter#selectRandom()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="show" id="chess/PawnPromoter#show(Lchess.Move;)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/PawnPromoter->chess/Piece" source="//@children.10" target="//@children.18" targetEnd="//@children.10/@sourceConnections.0/@children.2" label="//@children.10/@sourceConnections.0/@children.0" sourceEnd="//@children.10/@sourceConnections.0/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«import»" size="41,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="127,139" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,10"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/PawnPromoter->chess/PieceManager" source="//@children.10" target="//@children.1" targetEnd="//@children.10/@sourceConnections.1/@children.2" label="//@children.10/@sourceConnections.1/@children.0" sourceEnd="//@children.10/@sourceConnections.1/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="127,139" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,10"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/PawnPromoter->fresh/MyMethods" source="//@children.10" target="//@children.0" targetEnd="//@children.10/@sourceConnections.2/@children.2" label="//@children.10/@sourceConnections.2/@children.0" sourceEnd="//@children.10/@sourceConnections.2/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,69" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="173,358"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/PawnPromoter->chess/Move" source="//@children.10" target="//@children.4" targetEnd="//@children.10/@sourceConnections.3/@children.2" label="//@children.10/@sourceConnections.3/@children.0" sourceEnd="//@children.10/@sourceConnections.3/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«import»" size="41,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="127,139" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,10"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/PawnPromoter->chess/Chess" source="//@children.10" target="//@children.7" targetEnd="//@children.10/@sourceConnections.4/@children.2" label="//@children.10/@sourceConnections.4/@children.0" sourceEnd="//@children.10/@sourceConnections.4/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="10,139" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="202,10"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" id="chess/PawnPromoter->chess/Chess" source="//@children.10" target="//@children.7" targetEnd="//@children.10/@sourceConnections.5/@children.2" label="//@children.10/@sourceConnections.5/@children.0" sourceEnd="//@children.10/@sourceConnections.5/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«import»" size="41,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="137,138" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,20"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" targetConnections="//@children.7/@sourceConnections.13" name="ChessMenu" location="1279,2420" size="132,103" id="chess/ChessMenu" runTimeClassModel="ChessMenu(Lchess.Chess;),giveKey(Ljava.awt.event.KeyEvent;),actionPerformed(Ljava.awt.event.ActionEvent;)">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="109,54">
+      <children xsi:type="editmodel:MethodEditModel" name="ChessMenu" id="chess/ChessMenu#ChessMenu(Lchess.Chess;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="actionPerformed" id="chess/ChessMenu#actionPerformed(Ljava.awt.event.ActionEvent;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="giveKey" id="chess/ChessMenu#giveKey(Ljava.awt.event.KeyEvent;)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/ChessMenu->chess/Board" source="//@children.11" target="//@children.3" targetEnd="//@children.11/@sourceConnections.0/@children.2" label="//@children.11/@sourceConnections.0/@children.0" sourceEnd="//@children.11/@sourceConnections.0/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="10,0" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="155,903"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" id="chess/ChessMenu->chess/Chess" source="//@children.11" target="//@children.7" targetEnd="//@children.11/@sourceConnections.1/@children.2" label="//@children.11/@sourceConnections.1/@children.0" sourceEnd="//@children.11/@sourceConnections.1/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="182,1075"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/ChessMenu->fresh/Debug" source="//@children.11" target="//@children.6" targetEnd="//@children.11/@sourceConnections.2/@children.2" label="//@children.11/@sourceConnections.2/@children.0" sourceEnd="//@children.11/@sourceConnections.2/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="10,0" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="157,543"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/ChessMenu->chess/Chess" source="//@children.11" target="//@children.7" targetEnd="//@children.11/@sourceConnections.3/@children.2" label="//@children.11/@sourceConnections.3/@children.0" sourceEnd="//@children.11/@sourceConnections.3/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«import»" size="41,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="122,0" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,1065"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" targetConnections="//@children.7/@sourceConnections.1 //@children.2/@sourceConnections.0" name="AIManager" location="1559,340" size="118,283" id="chess/AIManager" runTimeClassModel="toString(),add(Lchess.AI;),clearAI(),AIManager(Lchess.Chess;),run(),Stop(),Kill(),add(Ljava.lang.Object;),isRunning(),ForceMove(),RandomMove(),Start(),pause(J)">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="95,234">
+      <children xsi:type="editmodel:MethodEditModel" name="AIManager" id="chess/AIManager#AIManager(Lchess.Chess;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="ForceMove" id="chess/AIManager#ForceMove()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="Kill" id="chess/AIManager#Kill()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="RandomMove" id="chess/AIManager#RandomMove()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="Start" id="chess/AIManager#Start()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="Stop" id="chess/AIManager#Stop()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="add" id="chess/AIManager#add(Ljava.lang.Object;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="add" id="chess/AIManager#add(Lchess.AI;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="clearAI" id="chess/AIManager#clearAI()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="isRunning" id="chess/AIManager#isRunning()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="pause" id="chess/AIManager#pause(J)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="run" id="chess/AIManager#run()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="toString" id="chess/AIManager#toString()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/AIManager->fresh/MyMethods" source="//@children.12" target="//@children.0" targetEnd="//@children.12/@sourceConnections.0/@children.2" label="//@children.12/@sourceConnections.0/@children.0" sourceEnd="//@children.12/@sourceConnections.0/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,273" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="163,0"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/AIManager->chess/Chess" source="//@children.12" target="//@children.7" targetEnd="//@children.12/@sourceConnections.1/@children.2" label="//@children.12/@sourceConnections.1/@children.0" sourceEnd="//@children.12/@sourceConnections.1/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«import»" size="41,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="58,283" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="123,0"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/AIManager->chess/PieceManager" source="//@children.12" target="//@children.1" targetEnd="//@children.12/@sourceConnections.2/@children.2" label="//@children.12/@sourceConnections.2/@children.0" sourceEnd="//@children.12/@sourceConnections.2/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="108,283" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,10"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/AIManager->fresh/Debug" source="//@children.12" target="//@children.6" targetEnd="//@children.12/@sourceConnections.3/@children.2" label="//@children.12/@sourceConnections.3/@children.0" sourceEnd="//@children.12/@sourceConnections.3/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,106" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="157,446"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" id="chess/AIManager->chess/AI" source="//@children.12" target="//@children.2" targetEnd="//@children.12/@sourceConnections.4/@children.2" label="//@children.12/@sourceConnections.4/@children.0" sourceEnd="//@children.12/@sourceConnections.4/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="118,282" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="10,10"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/AIManager->chess/AI" source="//@children.12" target="//@children.2" targetEnd="//@children.12/@sourceConnections.5/@children.2" label="//@children.12/@sourceConnections.5/@children.0" sourceEnd="//@children.12/@sourceConnections.5/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«import»" size="41,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="118,114" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,419"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" targetConnections="//@children.3/@sourceConnections.0 //@children.5/@sourceConnections.0 //@children.7/@sourceConnections.0" name="Info" location="26,55" size="214,579" id="chess/Info" runTimeClassModel="boardLineFrac,boardMinSize,boardSquareColor1,chessTeam1Color,boardLetterColor,pieceLineColor,boardFiles,boardHighlightFrac,boardBorderColor,consoleBackgroundColor,chessMaxSize,chessFrameSize,boardRanks,pieceCastleLeftCode,boardBorderFrac,boardHighlightColor,boardLetterFrac,boardSquareColor2,pieceCastleRightCode,piecePromotionCode,boardProtectColor,boardSquareColor,chessTeam2Color,boardLetterFont,boardBackgroundColor,boardLineColor,piecePawnDoubleMoveCode,boardKillColor,pieceEmPassantCode,consoleTextColor">
+    <children xsi:type="editmodel:CompartmentEditModel" size="191,540">
+      <children xsi:type="editmodel:AttributeEditModel" name="boardBackgroundColor" id="chess/Info#boardBackgroundColor"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="boardBorderColor" id="chess/Info#boardBorderColor"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="boardBorderFrac" id="chess/Info#boardBorderFrac"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="boardFiles" id="chess/Info#boardFiles"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="boardHighlightColor" id="chess/Info#boardHighlightColor"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="boardHighlightFrac" id="chess/Info#boardHighlightFrac"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="boardKillColor" id="chess/Info#boardKillColor"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="boardLetterColor" id="chess/Info#boardLetterColor"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="boardLetterFont" id="chess/Info#boardLetterFont"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="boardLetterFrac" id="chess/Info#boardLetterFrac"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="boardLineColor" id="chess/Info#boardLineColor"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="boardLineFrac" id="chess/Info#boardLineFrac"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="boardMinSize" id="chess/Info#boardMinSize"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="boardProtectColor" id="chess/Info#boardProtectColor"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="boardRanks" id="chess/Info#boardRanks"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="boardSquareColor" id="chess/Info#boardSquareColor"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="boardSquareColor1" id="chess/Info#boardSquareColor1"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="boardSquareColor2" id="chess/Info#boardSquareColor2"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="chessFrameSize" id="chess/Info#chessFrameSize"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="chessMaxSize" id="chess/Info#chessMaxSize"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="chessTeam1Color" id="chess/Info#chessTeam1Color"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="chessTeam2Color" id="chess/Info#chessTeam2Color"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="consoleBackgroundColor" id="chess/Info#consoleBackgroundColor"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="consoleTextColor" id="chess/Info#consoleTextColor"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="pieceCastleLeftCode" id="chess/Info#pieceCastleLeftCode"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="pieceCastleRightCode" id="chess/Info#pieceCastleRightCode"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="pieceEmPassantCode" id="chess/Info#pieceEmPassantCode"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="pieceLineColor" id="chess/Info#pieceLineColor"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="piecePawnDoubleMoveCode" id="chess/Info#piecePawnDoubleMoveCode"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="piecePromotionCode" id="chess/Info#piecePromotionCode"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" targetConnections="//@children.18/@sourceConnections.6 //@children.4/@sourceConnections.2 //@children.7/@sourceConnections.3" name="Pawn" location="2987,2385" size="81,85" id="chess/Pawn" runTimeClassModel="Pawn(IIIIZ),Pawn(IIZ)">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="58,36">
+      <children xsi:type="editmodel:MethodEditModel" name="Pawn" id="chess/Pawn#Pawn(IIZ)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="Pawn" id="chess/Pawn#Pawn(IIIIZ)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" autoLocated="true" id="chess/Piece&lt;-chess/Pawn" source="//@children.14" target="//@children.20/@sourceConnections.0" targetEnd="//@children.14/@sourceConnections.0/@children.1" sourceEnd="//@children.14/@sourceConnections.0/@children.0" connectionRouterKind="GeneralizationManhattan">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="40,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" id="chess/Pawn->chess/Piece" source="//@children.14" target="//@children.18" targetEnd="//@children.14/@sourceConnections.1/@children.2" label="//@children.14/@sourceConnections.1/@children.0" sourceEnd="//@children.14/@sourceConnections.1/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«import»" size="41,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,1" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="179,1093"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Pawn->fresh/MyMethods" source="//@children.14" target="//@children.0" targetEnd="//@children.14/@sourceConnections.2/@children.2" label="//@children.14/@sourceConnections.2/@children.0" sourceEnd="//@children.14/@sourceConnections.2/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="10,0" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="173,777"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Pawn->chess/Chess" source="//@children.14" target="//@children.7" targetEnd="//@children.14/@sourceConnections.3/@children.2" label="//@children.14/@sourceConnections.3/@children.0" sourceEnd="//@children.14/@sourceConnections.3/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="10,0" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="202,1065"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Pawn->chess/PieceManager" source="//@children.14" target="//@children.1" targetEnd="//@children.14/@sourceConnections.4/@children.2" label="//@children.14/@sourceConnections.4/@children.0" sourceEnd="//@children.14/@sourceConnections.4/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="10,0" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="224,1011"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Pawn->chess/Board" source="//@children.14" target="//@children.3" targetEnd="//@children.14/@sourceConnections.5/@children.2" label="//@children.14/@sourceConnections.5/@children.0" sourceEnd="//@children.14/@sourceConnections.5/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="10,0" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="155,903"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Pawn->chess/Move" source="//@children.14" target="//@children.4" targetEnd="//@children.14/@sourceConnections.6/@children.2" label="//@children.14/@sourceConnections.6/@children.0" sourceEnd="//@children.14/@sourceConnections.6/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«import»" size="41,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="10,85" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="146,10"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" targetConnections="//@children.18/@sourceConnections.7 //@children.4/@sourceConnections.4" name="Biship" location="2760,2469" size="82,103" id="chess/Biship" runTimeClassModel="Biship(Ljava.awt.Point;Z),Biship(IIIIZ),Biship(IIZ)">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="59,54">
+      <children xsi:type="editmodel:MethodEditModel" name="Biship" id="chess/Biship#Biship(Ljava.awt.Point;Z)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="Biship" id="chess/Biship#Biship(IIIIZ)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="Biship" id="chess/Biship#Biship(IIZ)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" autoLocated="true" id="chess/Piece&lt;-chess/Biship" source="//@children.15" target="//@children.20/@sourceConnections.0" targetEnd="//@children.15/@sourceConnections.0/@children.1" sourceEnd="//@children.15/@sourceConnections.0/@children.0" connectionRouterKind="GeneralizationManhattan">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="41,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Biship->chess/PieceManager" source="//@children.15" target="//@children.1" targetEnd="//@children.15/@sourceConnections.1/@children.2" label="//@children.15/@sourceConnections.1/@children.0" sourceEnd="//@children.15/@sourceConnections.1/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="10,0" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="224,1011"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Biship->fresh/MyMethods" source="//@children.15" target="//@children.0" targetEnd="//@children.15/@sourceConnections.2/@children.2" label="//@children.15/@sourceConnections.2/@children.0" sourceEnd="//@children.15/@sourceConnections.2/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="10,0" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="173,777"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" targetConnections="//@children.18/@sourceConnections.2 //@children.17/@sourceConnections.2 //@children.4/@sourceConnections.1" name="Rook" location="2640,2469" size="77,103" id="chess/Rook" runTimeClassModel="Rook(IIZ),Rook(IIIIZ),Rook(Ljava.awt.Point;Z)">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="54,54">
+      <children xsi:type="editmodel:MethodEditModel" name="Rook" id="chess/Rook#Rook(IIZ)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="Rook" id="chess/Rook#Rook(IIIIZ)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="Rook" id="chess/Rook#Rook(Ljava.awt.Point;Z)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" autoLocated="true" id="chess/Piece&lt;-chess/Rook" source="//@children.16" target="//@children.20/@sourceConnections.0" targetEnd="//@children.16/@sourceConnections.0/@children.1" sourceEnd="//@children.16/@sourceConnections.0/@children.0" connectionRouterKind="GeneralizationManhattan">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="38,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Rook->chess/PieceManager" source="//@children.16" target="//@children.1" targetEnd="//@children.16/@sourceConnections.1/@children.2" label="//@children.16/@sourceConnections.1/@children.0" sourceEnd="//@children.16/@sourceConnections.1/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,10" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="214,1021"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Rook->fresh/MyMethods" source="//@children.16" target="//@children.0" targetEnd="//@children.16/@sourceConnections.2/@children.2" label="//@children.16/@sourceConnections.2/@children.0" sourceEnd="//@children.16/@sourceConnections.2/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="10,0" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="173,777"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" targetConnections="//@children.18/@sourceConnections.4 //@children.1/@sourceConnections.1 //@children.4/@sourceConnections.5" name="King" location="2885,2571" size="74,103" id="chess/King" runTimeClassModel="King(Ljava.awt.Point;Z),King(IIIIZ),King(IIZ)">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="51,54">
+      <children xsi:type="editmodel:MethodEditModel" name="King" id="chess/King#King(IIIIZ)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="King" id="chess/King#King(IIZ)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="King" id="chess/King#King(Ljava.awt.Point;Z)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" autoLocated="true" id="chess/Piece&lt;-chess/King" source="//@children.17" target="//@children.20/@sourceConnections.0" targetEnd="//@children.17/@sourceConnections.0/@children.1" sourceEnd="//@children.17/@sourceConnections.0/@children.0" connectionRouterKind="GeneralizationManhattan">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="37,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" id="chess/King->chess/Piece" source="//@children.17" target="//@children.18" targetEnd="//@children.17/@sourceConnections.1/@children.2" label="//@children.17/@sourceConnections.1/@children.0" sourceEnd="//@children.17/@sourceConnections.1/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«import»" size="41,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="25,0" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="133,1093"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/King->chess/Rook" source="//@children.17" target="//@children.16" targetEnd="//@children.17/@sourceConnections.2/@children.2" label="//@children.17/@sourceConnections.2/@children.0" sourceEnd="//@children.17/@sourceConnections.2/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="10,0" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="77,93"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/King->fresh/MyMethods" source="//@children.17" target="//@children.0" targetEnd="//@children.17/@sourceConnections.3/@children.2" label="//@children.17/@sourceConnections.3/@children.0" sourceEnd="//@children.17/@sourceConnections.3/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="10,0" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="173,777"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" id="chess/King->chess/PieceManager" source="//@children.17" target="//@children.1" targetEnd="//@children.17/@sourceConnections.4/@children.2" label="//@children.17/@sourceConnections.4/@children.0" sourceEnd="//@children.17/@sourceConnections.4/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="54,0" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,1021"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/King->chess/Board" source="//@children.17" target="//@children.3" targetEnd="//@children.17/@sourceConnections.5/@children.2" label="//@children.17/@sourceConnections.5/@children.0" sourceEnd="//@children.17/@sourceConnections.5/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="10,0" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="155,903"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/King->chess/Move" source="//@children.17" target="//@children.4" targetEnd="//@children.17/@sourceConnections.6/@children.2" label="//@children.17/@sourceConnections.6/@children.0" sourceEnd="//@children.17/@sourceConnections.6/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«import»" size="41,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="10,103" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="146,10"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" targetConnections="//@children.20/@sourceConnections.0 //@children.14/@sourceConnections.1 //@children.17/@sourceConnections.1 //@children.1/@sourceConnections.0 //@children.3/@sourceConnections.1 //@children.4/@sourceConnections.0 //@children.7/@sourceConnections.2 //@children.8/@sourceConnections.0 //@children.5/@sourceConnections.1 //@children.10/@sourceConnections.0 //@children.4/@sourceConnections.10" name="Piece" location="2779,1154" size="180,1093" id="chess/Piece" runTimeClassModel="move(II),OficialMoveTo(II),hasNeverMoved(),equals(Ljava.lang.Object;),OficialMoveTo(Ljava.awt.Point;),getLocation(),getChecksFrom(Ljava.awt.Point;),Piece(IIZLjava.lang.String;),getMovesFrom(II),setChecksList(Ljava.util.ArrayList;),ForceMoveTo(II),centerTo(Ljava.awt.Point;),getChecksList(),RefreshMovesAndChecks(),movesList,moveTo(DD),setLocation(II),toString(),moveTo(Ljava.awt.Point;),tESTMOVEBO,isClicked(),timesMoved,setMovesList(Ljava.util.ArrayList;),isWhite(),OficialSnap(),Piece(),getCenter(),equals(Lchess.Piece;),timesMoved(),getChecksFrom(II),squareY(),UndoTestMove(),contains(Ljava.awt.Point;),setClicked(Z),getOriginalLoc(),getCenterY(),ForceMoveTo(Ljava.awt.Point;),getX(),saveString(),getY(),RefreshMovesList(),setTimesMoved(I),RefreshChecksList(),Piece(IIIIZLjava.lang.String;),iD,paint(Ljava.awt.Graphics;),getMovesList(),getID(),counter,getSquare(),getPieceManager(),TestMove(Lchess.Move;),Piece(IIZ),checksList,setLocation(Ljava.awt.Point;),squareX(),getMovesFrom(Ljava.awt.Point;),getCenterX()">
+    <children xsi:type="editmodel:CompartmentEditModel" size="133,108">
+      <children xsi:type="editmodel:AttributeEditModel" name="checksList" id="chess/Piece#checksList"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="counter" id="chess/Piece#counter"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="iD" id="chess/Piece#iD"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="movesList" id="chess/Piece#movesList"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="tESTMOVEBO" id="chess/Piece#tESTMOVEBO"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="timesMoved" id="chess/Piece#timesMoved"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="157,936">
+      <children xsi:type="editmodel:MethodEditModel" name="ForceMoveTo" id="chess/Piece#ForceMoveTo(Ljava.awt.Point;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="ForceMoveTo" id="chess/Piece#ForceMoveTo(II)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="OficialMoveTo" id="chess/Piece#OficialMoveTo(II)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="OficialMoveTo" id="chess/Piece#OficialMoveTo(Ljava.awt.Point;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="OficialSnap" id="chess/Piece#OficialSnap()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="Piece" id="chess/Piece#Piece(IIZ)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="Piece" id="chess/Piece#Piece(IIIIZLjava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="Piece" id="chess/Piece#Piece(IIZLjava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="Piece" id="chess/Piece#Piece()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="RefreshChecksList" id="chess/Piece#RefreshChecksList()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="RefreshMovesAndChecks" id="chess/Piece#RefreshMovesAndChecks()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="RefreshMovesList" id="chess/Piece#RefreshMovesList()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="TestMove" id="chess/Piece#TestMove(Lchess.Move;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="UndoTestMove" id="chess/Piece#UndoTestMove()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="centerTo" id="chess/Piece#centerTo(Ljava.awt.Point;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="contains" id="chess/Piece#contains(Ljava.awt.Point;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="equals" id="chess/Piece#equals(Ljava.lang.Object;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="equals" id="chess/Piece#equals(Lchess.Piece;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getCenter" id="chess/Piece#getCenter()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getCenterX" id="chess/Piece#getCenterX()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getCenterY" id="chess/Piece#getCenterY()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getChecksFrom" id="chess/Piece#getChecksFrom(Ljava.awt.Point;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getChecksFrom" id="chess/Piece#getChecksFrom(II)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getChecksList" id="chess/Piece#getChecksList()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getID" id="chess/Piece#getID()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getLocation" id="chess/Piece#getLocation()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getMovesFrom" id="chess/Piece#getMovesFrom(II)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getMovesFrom" id="chess/Piece#getMovesFrom(Ljava.awt.Point;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getMovesList" id="chess/Piece#getMovesList()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getOriginalLoc" id="chess/Piece#getOriginalLoc()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getPieceManager" id="chess/Piece#getPieceManager()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getSquare" id="chess/Piece#getSquare()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getX" id="chess/Piece#getX()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getY" id="chess/Piece#getY()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="hasNeverMoved" id="chess/Piece#hasNeverMoved()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="isClicked" id="chess/Piece#isClicked()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="isWhite" id="chess/Piece#isWhite()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="move" id="chess/Piece#move(II)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="moveTo" id="chess/Piece#moveTo(Ljava.awt.Point;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="moveTo" id="chess/Piece#moveTo(DD)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="paint" id="chess/Piece#paint(Ljava.awt.Graphics;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="saveString" id="chess/Piece#saveString()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setChecksList" id="chess/Piece#setChecksList(Ljava.util.ArrayList;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setClicked" id="chess/Piece#setClicked(Z)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setLocation" id="chess/Piece#setLocation(II)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setLocation" id="chess/Piece#setLocation(Ljava.awt.Point;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setMovesList" id="chess/Piece#setMovesList(Ljava.util.ArrayList;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setTimesMoved" id="chess/Piece#setTimesMoved(I)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="squareX" id="chess/Piece#squareX()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="squareY" id="chess/Piece#squareY()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="timesMoved" id="chess/Piece#timesMoved()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="toString" id="chess/Piece#toString()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Piece->fresh/MyMethods" source="//@children.18" target="//@children.0" targetEnd="//@children.18/@sourceConnections.0/@children.2" label="//@children.18/@sourceConnections.0/@children.0" sourceEnd="//@children.18/@sourceConnections.0/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,141" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="173,645"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Piece->chess/Board" source="//@children.18" target="//@children.3" targetEnd="//@children.18/@sourceConnections.1/@children.2" label="//@children.18/@sourceConnections.1/@children.0" sourceEnd="//@children.18/@sourceConnections.1/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,650" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="155,443"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Piece->chess/Rook" source="//@children.18" target="//@children.16" targetEnd="//@children.18/@sourceConnections.2/@children.2" label="//@children.18/@sourceConnections.2/@children.0" sourceEnd="//@children.18/@sourceConnections.2/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,1083" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="67,0"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Piece->fresh/Debug" source="//@children.18" target="//@children.6" targetEnd="//@children.18/@sourceConnections.3/@children.2" label="//@children.18/@sourceConnections.3/@children.0" sourceEnd="//@children.18/@sourceConnections.3/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="10,0" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="157,543"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Piece->chess/King" source="//@children.18" target="//@children.17" targetEnd="//@children.18/@sourceConnections.4/@children.2" label="//@children.18/@sourceConnections.4/@children.0" sourceEnd="//@children.18/@sourceConnections.4/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="142,1093" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="36,0"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Piece->chess/Knight" source="//@children.18" target="//@children.20" targetEnd="//@children.18/@sourceConnections.5/@children.2" label="//@children.18/@sourceConnections.5/@children.0" sourceEnd="//@children.18/@sourceConnections.5/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,1083" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="73,0"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Piece->chess/Pawn" source="//@children.18" target="//@children.14" targetEnd="//@children.18/@sourceConnections.6/@children.2" label="//@children.18/@sourceConnections.6/@children.0" sourceEnd="//@children.18/@sourceConnections.6/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="180,1083" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="10,0"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Piece->chess/Biship" source="//@children.18" target="//@children.15" targetEnd="//@children.18/@sourceConnections.7/@children.2" label="//@children.18/@sourceConnections.7/@children.0" sourceEnd="//@children.18/@sourceConnections.7/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="31,1093" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="50,0"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Piece->chess/Queen" source="//@children.18" target="//@children.19" targetEnd="//@children.18/@sourceConnections.8/@children.2" label="//@children.18/@sourceConnections.8/@children.0" sourceEnd="//@children.18/@sourceConnections.8/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="180,1083" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="10,0"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Piece->chess/Move" source="//@children.18" target="//@children.4" targetEnd="//@children.18/@sourceConnections.9/@children.2" label="//@children.18/@sourceConnections.9/@children.0" sourceEnd="//@children.18/@sourceConnections.9/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«import»" size="41,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="28,1093" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="117,0"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" id="chess/Piece->chess/PieceManager" source="//@children.18" target="//@children.1" targetEnd="//@children.18/@sourceConnections.10/@children.2" label="//@children.18/@sourceConnections.10/@children.0" sourceEnd="//@children.18/@sourceConnections.10/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="180,212" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,808"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" id="chess/Piece->chess/PieceManager" source="//@children.18" target="//@children.1" targetEnd="//@children.18/@sourceConnections.11/@children.2" label="//@children.18/@sourceConnections.11/@children.0" sourceEnd="//@children.18/@sourceConnections.11/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«import»" size="41,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="180,232" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,788"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Piece->chess/Chess" source="//@children.18" target="//@children.7" targetEnd="//@children.18/@sourceConnections.12/@children.2" label="//@children.18/@sourceConnections.12/@children.0" sourceEnd="//@children.18/@sourceConnections.12/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,599" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="202,494"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" targetConnections="//@children.18/@sourceConnections.8 //@children.4/@sourceConnections.3" name="Queen" location="3098,2385" size="85,103" id="chess/Queen" runTimeClassModel="Queen(IIZ),Queen(IIIIZ),Queen(Ljava.awt.Point;Z)">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="62,54">
+      <children xsi:type="editmodel:MethodEditModel" name="Queen" id="chess/Queen#Queen(IIIIZ)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="Queen" id="chess/Queen#Queen(IIZ)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="Queen" id="chess/Queen#Queen(Ljava.awt.Point;Z)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" autoLocated="true" id="chess/Piece&lt;-chess/Queen" source="//@children.19" target="//@children.20/@sourceConnections.0" targetEnd="//@children.19/@sourceConnections.0/@children.1" sourceEnd="//@children.19/@sourceConnections.0/@children.0" connectionRouterKind="GeneralizationManhattan">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="42,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Queen->chess/PieceManager" source="//@children.19" target="//@children.1" targetEnd="//@children.19/@sourceConnections.1/@children.2" label="//@children.19/@sourceConnections.1/@children.0" sourceEnd="//@children.19/@sourceConnections.1/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="10,0" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="224,1011"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Queen->fresh/MyMethods" source="//@children.19" target="//@children.0" targetEnd="//@children.19/@sourceConnections.2/@children.2" label="//@children.19/@sourceConnections.2/@children.0" sourceEnd="//@children.19/@sourceConnections.2/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="10,0" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="173,777"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" targetConnections="//@children.18/@sourceConnections.5 //@children.4/@sourceConnections.11" name="Knight" location="2510,2469" size="83,103" id="chess/Knight" runTimeClassModel="Knight(IIZ),Knight(Ljava.awt.Point;Z),Knight(IIIIZ)">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="60,54">
+      <children xsi:type="editmodel:MethodEditModel" name="Knight" id="chess/Knight#Knight(Ljava.awt.Point;Z)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="Knight" id="chess/Knight#Knight(IIZ)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="Knight" id="chess/Knight#Knight(IIIIZ)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" targetConnections="//@children.16/@sourceConnections.0 //@children.15/@sourceConnections.0 //@children.17/@sourceConnections.0 //@children.14/@sourceConnections.0 //@children.19/@sourceConnections.0" id="chess/Piece&lt;-chess/Knight" source="//@children.20" target="//@children.18" targetEnd="//@children.20/@sourceConnections.0/@children.1" sourceEnd="//@children.20/@sourceConnections.0/@children.0" connectionRouterKind="GeneralizationManhattan">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="63,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,1093" anchorKind="FixedAtEdge"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Knight->chess/PieceManager" source="//@children.20" target="//@children.1" targetEnd="//@children.20/@sourceConnections.1/@children.2" label="//@children.20/@sourceConnections.1/@children.0" sourceEnd="//@children.20/@sourceConnections.1/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="41,0" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="132,1021"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Knight->fresh/MyMethods" source="//@children.20" target="//@children.0" targetEnd="//@children.20/@sourceConnections.2/@children.2" label="//@children.20/@sourceConnections.2/@children.0" sourceEnd="//@children.20/@sourceConnections.2/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="10,0" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="173,777"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" id="chess/Knight->chess/Move" source="//@children.20" target="//@children.4" targetEnd="//@children.20/@sourceConnections.3/@children.2" label="//@children.20/@sourceConnections.3/@children.0" sourceEnd="//@children.20/@sourceConnections.3/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«import»" size="41,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="83,-1" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,913"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="chess/Knight->chess/Board" source="//@children.20" target="//@children.3" targetEnd="//@children.20/@sourceConnections.4/@children.2" label="//@children.20/@sourceConnections.4/@children.0" sourceEnd="//@children.20/@sourceConnections.4/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«access»" size="48,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,10" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="145,913"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <diagramOptions xsi:type="options:ClassDiagramOptions" properties="wireOptions=7" autoName="false"/>
+  <boardSetting snapToGeometry="true" gridEnabled="true" gridSpacing="10,10" gridOrigin="0,0" rulerUnit="pixel">
+    <leftRuler/>
+    <topRuler/>
+  </boardSetting>
+  <classDiagramPreferences xsi:type="editmodel:UMLClassDiagramPreference" attributeSorter="Natural" methodSorter="Natural" showClassStereotype="true" showPackageStereotype="true" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showInterfaceStereotype="true" showAttributeProperty="true"/>
+</editmodel:ClassDiagramEditModel>
